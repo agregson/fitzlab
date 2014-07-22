@@ -4,6 +4,9 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 # Protocol Notes:
 -   Grow pseudomonas from frozen stock to provide supernatant for membrane vesicles
 -   Purpose is to isolate the bacterial membrane vesicles using ultracentrifugation
+-   This protocol is suitable for serum, BALF, and most other biological fluids.
+-   Threads of ultracentrifuge buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease. 
+-   Must refrigerate SW 41 Ti rotor buckets at 4 degrees C prior to running.
 
 # Materials: 
 
@@ -38,13 +41,15 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     - Lot\# Z11208SCA, Reorder\# 331372
     - can sterilize acid or alkali, not alcohols
 
-13.  Sorval Legend XTR Centrifuge
+13.  Beckman Optima L-70k Ultracentrifuge
 
-14.  Beckman Optima L-70k Ultracentrifuge
+14.  Sorval Legend XTR Centrifuge
+
+15. Sorval rotor F13-14-50cy
 
 15. Ice
 
-17. HEPES buffer 50 mM, pH 6.8
+17. HEPES buffer 50 mM, pH 6.8, prepared on N/A by N/A, Location: refrigerator #? in 250-mL glass reagent bottle
     - Sigma
 
 18. NanoDrop ND-1000
@@ -72,7 +77,8 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     - 32 mcL for 200 mL culture volume
     - 16 mcL for 100 mL culture volume
 
-10. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^8^ cfu ml^-1^), usually at six hours of incubation. What is the target optical density?
+10. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^8^ cfu ml^-1^), usually at six hours of incubation.
+    - Based on this cfu, the OD would be 0.196 or ~ 0.200
 
 6. Using a serological pipet, remove entire volume of supernatant required at one time, transferring to sterile 50-mL polystyrene conical tubes
     - Place volume in excess of 72 mL into 4 degrees C at once
@@ -83,8 +89,8 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
-9. Spin samples in ultracentrifuge, 6,000 g (?? RPM with SW 41 Ti) for 30 minutes at 4 degrees C.
-    1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
+9. Spin samples in Sorval Legend XTR, 6,000 g (6000 RPM with F13-14-50cy) for 30 minutes at 4 degrees C.
+    1.  This is saved as Program ? on the Sorval Legend XTR centrifuge
     2.  *Supernatant* after this step contains the membrane vesicles.
     3.  Discard the pellet.
 
@@ -108,11 +114,11 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     2.  Fill tubes leaving only a few millimeters of empty space.
     3.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
-16. Spin samples in ultracentrifuge, 16,000 g (?? RPM with SW 41 Ti) for 30 minutes at 4 degrees C.
-    1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
+16. Spin samples in Sorval Legend XTR, 16,000 g (9,750 RPM with F13-14-50cy) for 30 minutes at 4 degrees C.
+    1.  This is saved as Program ? on the Sorval Legend XTR centrifuge
     2.  *Pellet* after this step contains the membrane vesicles.
     3.  Discard the supernatant.
-	4.  Wash 1
+	4.  Wash 1 completed
 
 17. Again, use a serological pipet to carefully aspirate the supernatant from the
     samples. Use a pipetman to remove as much supernatant from the
@@ -122,11 +128,13 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g
 
-20. Spin samples in ultracentrifuge, 16,000 g (?? RPM with SW 41 Ti) for 30 minutes at 4 degrees C.
-    1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
+20. Spin samples in Sorval Legend XTR, 16,000 g (9,750 RPM with F13-14-50cy) for 30 minutes at 4 degrees C.
+    1.  This is saved as Program ? on the Sorval Legend XTR centrifuge
     2.  *Pellet* after this step contains the membrane vesicles.
     3.  Discard the supernatant.
-	4.  Wash 2
+	4.  Wash 2 completed
+
+21. Using serological pipet, resuspend pellet in 200-400 mcL of 50 mM HEPES 
 
 21. Determine membrane vesicle protein content using a (Micro) BCA protein assay reagent kit using the NanoDrop.
 
