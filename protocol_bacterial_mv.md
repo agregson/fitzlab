@@ -1,7 +1,7 @@
 Protocol: Isolation of Bacterial Membrane Vesicles
 ==================================================
 
-# Protocol Notes:
+# Protocol Notes:[^1]
 -   Grow pseudomonas from frozen stock to provide supernatant for membrane vesicles
 -   Purpose is to isolate the bacterial membrane vesicles using ultracentrifugation
 -   This protocol is suitable for serum, BALF, and most other biological fluids.
@@ -60,8 +60,8 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     - Pierce
     - mirco optimized for 0.5-20 mcg protein ml^-1^
 
-19. Trypticase Soy Agar (TSA) plate, Location: Refrigerator #4/20, BD Cat#B11043 
-    1. Dissovle 20 g into 500 mL ddH2O.  Mix by swirling, microwave 3 minutes (setting?), mix by swirling, repeat 3-4 times until powder completely dissolved.  Autoclave at 121 degrees C for 15 minutes.  (IMED autoclave settings: easy cycle, liquid, 15 minutes) At this time, turn waterbath on to 55 degree C.
+19. Trypticase Soy Agar (TSA) plate, Location: Refrigerator #20, BD Cat#B11043 
+    1. Dissovle 20 g into 500 mL ddH2O.  Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.  Autoclave at 121 degrees C for 15 minutes.  (IMED autoclave settings: easy cycle, liquid, 15 minutes) At this time, turn waterbath on to 55 degree C.
     2. Remove from autoclave, mix solution by swirling to avoid clump/chunks.  Place in 55 degree C waterbath, lay out dishes in hood (save bags), pipette 20-25 mL per plate (make sure to swirl solution around to avoid solidifying).  Let dry 10-20 minutes, cover, flip, store in original bags at 4 degrees C.
 
 
@@ -73,21 +73,16 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 3. Add 200 mL of Mueller-Hinton Broth to sterile 250-mL flasks
 
-4. Using a sterile 10 mcl inoculation loop, scrape a 2 colonies of *Ps. aeruginosa* growth from agar plates (from Day 1) and transfer into 250-mL flask with MHB in it (Step 3). Grow broth cultures at 37 degree C for 6 h with gentle shaking (New Brunswick Scientific Incubator Shaker G25)
+4. Using a sterile 10 mcl inoculation loop, scrape a 2 colonies of *Ps. aeruginosa* growth from agar plates (from Day 1) and transfer into 250-mL flask with MHB in it (Step 3). Grow broth cultures at 37 degree C for approximately 6 h with gentle shaking (New Brunswick Scientific Incubator Shaker G25)
 
-8. Add stock concentration gentamicin to 250/500-mL bacterial culture flasks to final concentration of 8 mcL/mL. Incubate gentamicin in the culture flask x30 minutes on orbital shaker at 37 degrees C.
+5. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^9^ cfu ml^-1^), usually at approximately six hours of incubation.
+    - Based on this cfu, the OD would be 0.900
+
+6. Add stock concentration gentamicin to 250/500-mL bacterial culture flasks to final concentration of 8 mcL/mL. Incubate gentamicin in the culture flask x30 minutes on orbital shaker at 37 degrees C.
     - 32 mcL for 200 mL culture volume
     - 16 mcL for 100 mL culture volume
 
-10. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^9^ cfu ml^-1^), usually at six hours of incubation.
-    - Based on this cfu, the OD would be 0.900
-
-6. Using a serological pipet, remove entire volume of supernatant required at one time, transferring to sterile 50-mL polystyrene conical tubes
-    - Place volume in excess of 72 mL into 4 degrees C at once
-    - Note that only 72 mL can be processed at one time in the SW 41 Ti rotor
-    - Multiple passes may need to be done, store excess supernatant at 4 C until processed
-
-7. Using a serological pipet, transfer culture supernatant to ultracentrifuge tubes. Balance tubes with cold 50 mM HEPES using a scale.
+6. Using a serological pipet, remove entire volume of supernatant required at one time, transferring to sterile 50-mL polystyrene conical tubes. Balance tubes with cold 50 mM HEPES using a scale.
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
@@ -96,7 +91,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     2.  *Supernatant* after this step contains the membrane vesicles.
     3.  Discard the pellet.
 
-10. Filter supernatant sequentially through 0.45 and then 0.22 micron cellulose acetate filters
+10. Filter supernatant sequentially through 0.45 and then 0.22 micron cellulose acetate filters to remove any bacteria.
 
 11. Using a serological pipet, transfer filtered supernatant to ultracentrifuge tubes. Balance tubes with cold 50 mM HEPES using a scale.
     1.  Fill tubes leaving only a few millimeters of empty space.
@@ -106,12 +101,15 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains the membrane vesicles. Mark location of pellet with pen to facilitate extraction.
     3.  Discard the supernatant.
+    4.  Place volume in excess of 72 mL into 4 degrees C at once
+    5.  Note that only 72 mL can be processed at one time in the SW 41 Ti rotor
+    6.  Multiple passes may need to be done to process all of the supernatant
 
-13. Again, use a serological pipet to carefully aspirate the supernatant from the
+13. Use a serological pipet to carefully aspirate the supernatant from the
     samples. Use a pipetman to remove as much supernatant from the
     pellet as possible.
 
-14. Resuspend membrane vesicle pellet in 50 mM HEPES buffer and using serological pipet transfer the suspension to ultracentrifuge tubes. Balance tubes with cold 50 mM HEPES using a scale.
+14. Resuspend membrane vesicle pellet in 50 mM HEPES buffer and using serological pipet transfer the suspension to 50-mL conical tubes. Balance tubes with cold 50 mM HEPES using a scale.
     1.  We do a two spin wash of the vesicle pellet
     2.  Fill tubes leaving only a few millimeters of empty space.
     3.  Tubes must be weighed within 0.1 – 0.2 g of one another
@@ -126,7 +124,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     samples. Use a pipetman to remove as much supernatant from the
     pellet as possible.
 
-18. Resuspend membrane vesicle pellet in 50 mM HEPES buffer and using serological pipet transfer the suspension to ultracentrifuge tubes. Balance tubes with cold 50 mM HEPES using a scale.
+18. Resuspend membrane vesicle pellet in 50 mM HEPES buffer and using serological pipet transfer the suspension to 50-mL conical tubes. Balance tubes with cold 50 mM HEPES using a scale.
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g
 
@@ -158,4 +156,4 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 5. Huntley, J.F., Robertson, G.T., Norgard, M.V. Method for the Isolation of Francisella tularensis Outer Membranes. J. Vis. Exp. (40), e2044, doi:10.3791/2044 (2010). (isolation of membrane proteins themselves)
 
 
-[^]: Authors: Created by Patil Injean on 2014-06-30; Modified by ALG 2014-07-16
+[^1]: Authors: Created by Patil Injean on 2014-06-30; Modified by ALG 2014-07
