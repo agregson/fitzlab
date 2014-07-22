@@ -60,4 +60,4 @@ Or for us, say we want to checkout just the LSR II branch:
 
 An example to convert to pdf.
 
-        - pandoc abstract_jove.md --biblio ~/Documents/jabref/JabRefdb/gnr-new.bib --csl journal-of-visualized-experiments.csl --latex-engine=xelatex -o abstract_jove.pdf
+        - pandoc abstract_jove.md -V documentclass=scrartcl --biblio ~/Documents/jabref/JabRefdb/gnr-new.bib --csl journal-of-visualized-experiments.csl --latex-engine=xelatex -o abstract_jove.pdf
