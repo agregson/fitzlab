@@ -47,6 +47,8 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 15. Sorval rotor F13-14-50cy
 
+16. New Brunswick Scientific Incubator Shaker G25
+
 15. Ice
 
 17. HEPES buffer 50 mM, pH 6.8, prepared on N/A by N/A, Location: refrigerator #? in 250-mL glass reagent bottle
@@ -71,14 +73,14 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 3. Add 200 mL of Mueller-Hinton Broth to sterile 250-mL flasks
 
-4. Using a sterile 10 mcl inoculation loop, scrape a 2 colonies of *Ps. aeruginosa* growth from agar plates (from Day 1) and transfer into 250-mL flask with MHB in it (Step 3). Grow broth cultures at 37 degree C for 6 h with gentle shaking (Incubator/Shaker name)
+4. Using a sterile 10 mcl inoculation loop, scrape a 2 colonies of *Ps. aeruginosa* growth from agar plates (from Day 1) and transfer into 250-mL flask with MHB in it (Step 3). Grow broth cultures at 37 degree C for 6 h with gentle shaking (New Brunswick Scientific Incubator Shaker G25)
 
 8. Add stock concentration gentamicin to 250/500-mL bacterial culture flasks to final concentration of 8 mcL/mL. Incubate gentamicin in the culture flask x30 minutes on orbital shaker at 37 degrees C.
     - 32 mcL for 200 mL culture volume
     - 16 mcL for 100 mL culture volume
 
-10. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^8^ cfu ml^-1^), usually at six hours of incubation.
-    - Based on this cfu, the OD would be 0.196 or ~ 0.200
+10. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^9^ cfu ml^-1^), usually at six hours of incubation.
+    - Based on this cfu, the OD would be 0.900
 
 6. Using a serological pipet, remove entire volume of supernatant required at one time, transferring to sterile 50-mL polystyrene conical tubes
     - Place volume in excess of 72 mL into 4 degrees C at once
