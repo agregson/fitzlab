@@ -128,4 +128,4 @@ Exosome Isolation - Ultracentrifugation
 
 3.  Lässer, C., Eldh, M., Lötvall, J. Isolation and Characterization of RNA-Containing Exosomes. (2012) Journal Visualized Experiments;59:e3037. [Laesser2012a](http://www.jove.com/video/3037/isolation-and-characterization-of-rna-containing-exosomes)
 
-#### Authors: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11
+[^1}: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11
