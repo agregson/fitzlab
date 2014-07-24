@@ -1,17 +1,16 @@
 Exosome Isolation - Ultracentrifugation
 =======================================
 
-# Protocol Notes[^1]
+# Protocol Notes [^1]
 
--   This protocol was modified from: Current Protocols in Cell Biology
-    (2006) 3.22.1-3.22.29. In 2013 updated to match methods in Laesser2012a.
+-   This protocol was originally modified from Thery2006. In 2013 updated to match methods in Laesser2012a.
 
 -   This protocol is suitable for serum, BALF, and most other
     biological fluids.
 
 -   If used in medium, FCS must be exosome free. FCS can be replaced
     with insulin-transferrin-sodium-selenite supplement or BSA (1% w/v)
-    if desired (Thery et al. 2002)
+    if desired (Thery2002)
 
 -   Threads of ultracentrifuge buckets must be coated with Beckman
     Spinkote, and the gaskets must be coated with Beckman Vacuum grease.
@@ -123,13 +122,10 @@ Exosome Isolation - Ultracentrifugation
 
 # References
 
-1.  Théry, C.; Amigorena, S.; Raposo, G. & Clayton, A. Isolation and
-    characterization of exosomes from cell culture supernatants and
-    biological fluids. (2006) Current Protocols in Cell Biology;Chapter
-    3, Unit 3.22: 3.22.1—3.22.29. [Thery2006](http://www.bibsonomy.org/bibtex/24a0ec607b1d6eb46eb5c14a0104f3411/aorchid)
+1.  Théry, C.; Amigorena, S.; Raposo, G. & Clayton, A. Isolation and characterization of exosomes from cell culture supernatants and biological fluids. (2006) Current Protocols in Cell Biology;Chapter 3, Unit 3.22: 3.22.1—3.22.29. [Thery2006](http://www.bibsonomy.org/bibtex/24a0ec607b1d6eb46eb5c14a0104f3411/aorchid)
 
 2.  Théry, C. Zitvogel, L., Amigorena, S., Exosomes: Composition, Biogenesis and Function. (2002) Nature Reviews: Immunology;2:569—579. [Thery2002](http://www.bibsonomy.org/bibtex/2b9e1c40bc50ea918af7ef122fd540789/aorchid)
 
-3.  Lässer, C., Eldh, M., Lötvall, J. Isolation and Characterization of RNA-Containing Exosomes. Journal Visual Experimentation(59), e3037, doi:10.3791/3037 (2012). [Laesser2012a](http://www.jove.com/video/3037/isolation-and-characterization-of-rna-containing-exosomes)
+3.  Lässer, C., Eldh, M., Lötvall, J. Isolation and Characterization of RNA-Containing Exosomes. (2012) Journal Visualized Experiments;59:e3037. [Laesser2012a](http://www.jove.com/video/3037/isolation-and-characterization-of-rna-containing-exosomes)
 
 #### Authors: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11
