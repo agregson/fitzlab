@@ -75,7 +75,7 @@ Exosome Isolation - Ultracentrifugation
     2.  Tubes must be weighed within 0.1 – 0.2 g of each other
 
 4.  Spin samples in ultracentrifuge, 16,500xg (11,500 RPM with SW 41 Ti)
-    for 44 minutes at 4 degrees C.
+    for 20 minutes at 4 degrees C.
     1.  This is saved as Program 4 on the Optima L-70k Ultracentrifuge
     2.  *Supernatant* after this step contains the exosomes.
 
