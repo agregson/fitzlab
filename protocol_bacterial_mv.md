@@ -97,7 +97,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
-12. Spin samples in ultracentrifuge, 150,000 g (?? RPM with SW 41 Ti) for 90 minutes at 4 degrees C.
+12. Spin samples in ultracentrifuge, 150,000 g (35,000 RPM with SW 41 Ti) for 3 hours at 4 degrees C.
     1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains the membrane vesicles. Mark location of pellet with pen to facilitate extraction.
     3.  Discard the supernatant.
@@ -110,29 +110,14 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     pellet as possible.
 
 14. Resuspend membrane vesicle pellet in 50 mM HEPES buffer and using serological pipet transfer the suspension to 50-mL conical tubes. Balance tubes with cold 50 mM HEPES using a scale.
-    1.  We do a two spin wash of the vesicle pellet
+    1.  We do a one spin wash of the vesicle pellet
     2.  Fill tubes leaving only a few millimeters of empty space.
     3.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
-16. Spin samples in Sorval Legend XTR, 16,000 g (9,750 RPM with F13-14-50cy) for 30 minutes at 4 degrees C.
-    1.  This is saved as Program ? on the Sorval Legend XTR centrifuge
+16. Spin samples in ultracentrifuge, 120,000 g (32,000 RPM with SW 41 Ti) for 30 minutes at 4 degrees C.
+    1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains the membrane vesicles.
     3.  Discard the supernatant.
-	4.  Wash 1 completed
-
-17. Again, use a serological pipet to carefully aspirate the supernatant from the
-    samples. Use a pipetman to remove as much supernatant from the
-    pellet as possible.
-
-18. Resuspend membrane vesicle pellet in 50 mM HEPES buffer and using serological pipet transfer the suspension to 50-mL conical tubes. Balance tubes with cold 50 mM HEPES using a scale.
-    1.  Fill tubes leaving only a few millimeters of empty space.
-    2.  Tubes must be weighed within 0.1 – 0.2 g
-
-20. Spin samples in Sorval Legend XTR, 16,000 g (9,750 RPM with F13-14-50cy) for 30 minutes at 4 degrees C.
-    1.  This is saved as Program ? on the Sorval Legend XTR centrifuge
-    2.  *Pellet* after this step contains the membrane vesicles.
-    3.  Discard the supernatant.
-	4.  Wash 2 completed
 
 21. Using serological pipet, resuspend pellet in 200-400 mcL of 50 mM HEPES 
 
@@ -145,13 +130,13 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 # References:
 
-1. Renelli2004 - DNA-containing membrane vesicles of Pseudomonas aeruginosa PAO1 and their genetic transformation potential. (main protocol)
+1. Kadurugamuwa1995 - Virulence factors are released from Pseudomonas aeruginosa in association with membrane vesicles during normal growth and exposure to gentamicin: a novel mechanism of enzyme secretion. (isolation protocol using all ultracentrifuge, gel)
 
 2. Ellis2010 - Naturally produced outer membrane vesicles from Pseudomonas aeruginosa elicit a potent innate immune response via combined sensing of both lipopolysaccharide and protein components. (SDS-PAGE for LPS)
 
 3. Bauman2006 - Purification of outer membrane vesicles from Pseudomonas aeruginosa and their activation of an IL-8 response.
 
-4. Kadurugamuwa1995 - Virulence factors are released from Pseudomonas aeruginosa in association with membrane vesicles during normal growth and exposure to gentamicin: a novel mechanism of enzyme secretion. (original isolation technique, gel)
+4. Renelli2004 - DNA-containing membrane vesicles of Pseudomonas aeruginosa PAO1 and their genetic transformation potential. (isolation protocol using benchtop for washes, requires 16,500*g capabilities)
 
 5. Huntley, J.F., Robertson, G.T., Norgard, M.V. Method for the Isolation of Francisella tularensis Outer Membranes. J. Vis. Exp. (40), e2044, doi:10.3791/2044 (2010). (isolation of membrane proteins themselves)
 
