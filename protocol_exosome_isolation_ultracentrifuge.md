@@ -86,6 +86,7 @@ Exosome Isolation - Ultracentrifugation
 7.	_Alternative:_ If not able to complete processing in the AM which is required by the overnight spin, then spin in ultracentrifuge 118,000*g (31,000 RPM with SW 41 Ti) for 2 hours at 4 degrees C.
     1.  This is saved as Program 2 on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains exosomes
+
 <!-- 8.  Use a serological pipet to remove the supernatant from the -->
 <!--     samples. Use a pipetman to remove as much supernatant from the -->
 <!--     pellet as possible without disturbing it. -->
