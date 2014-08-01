@@ -1,9 +1,9 @@
 Exosome Isolation - Ultracentrifugation
 =======================================
 
-# Protocol Notes [^1]
+# Protocol Notes [^1] 
 
--   This protocol was originally modified from Thery2006. In 2013 updated to match methods in Laesser2012a.
+-   This protocol was originally modified from Thery2006, then modified after Laesser2012 and most recently updated to reflect findings in Cvjetkovic2014 reflecting changes in centrifuge rotors and lab equipment.
 
 -   This protocol is suitable for serum, BALF, and most other biological fluids.
 
@@ -26,7 +26,7 @@ Exosome Isolation - Ultracentrifugation
 
 # Materials
 
-1.  50-mL polystyrene conical tubes
+1.  50-mL polystyrene conical tubes (Falcon tubes)
 
 2.  Phosphate Buffered Saline (PBS) 1x, prepared on N/A by N/A, location: stored at room temperature in 1-L glass reagent bottle
 
@@ -42,7 +42,9 @@ Exosome Isolation - Ultracentrifugation
 
 8.  Beckman Optima L-70k Ultracentrifuge
 
-9.  Jouan CR 412 Centrifuge
+9.  Sorval Legend XTR Centrifuge
+
+10. Sorval rotor F13-14-50cy
 
 11. Ice
 
@@ -52,18 +54,18 @@ Exosome Isolation - Ultracentrifugation
 
 # Methods
 
-1.  Spin down sample in 50-mL conical tube at 2000xg (3100 RPM in Jouan centrifuge) for 30 minutes at 4 degrees C.
-    1.  *Supernatant* after this step contains the exosomes.
+1.  If sample has not yet been centrifuged to remove cells, then centrifuge sample in 50-mL conical tube at 300*g in the Sorval Legend XTR centrifuge for 10 minutes at 4 degrees C.
+    1.  This is saved as Program 2 on the Sorval Legend XTR centrifuge
+	2.  *Supernatant* after this step contains the exosomes.
 
 2.  Using a serological pipet, remove the supernatant to approximately 2 cm above pellet. Use a pipetman to remove as much remaining supernatant as possible without disturbing the pellet. Transfer supernatant to ultracentrifuge tubes.
-    1.  Optional: Keep aliquot of supernatant for purification
-        analysis if necessary.
+    1.  Optional: Keep aliquot of supernatant for purification analysis if necessary.
 
-3.  Balance tubes with cold PBS using a scale.
+3.  Balance ultracentrifuge tubes with cold PBS using a scale.
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g of each other
 
-4.  Spin samples in ultracentrifuge, 16,500xg (11,500 RPM with SW 41 Ti) for 20 minutes at 4 degrees C.
+4.  Spin samples in ultracentrifuge, 16,500*g (11,500 RPM with SW 41 Ti) for 44 minutes at 4 degrees C.
     1.  This is saved as Program 4 on the Optima L-70k Ultracentrifuge
     2.  *Supernatant* after this step contains the exosomes.
 
@@ -71,16 +73,19 @@ Exosome Isolation - Ultracentrifugation
 
 6.  Transfer to a 60 mL sterile syringe and filter through 0.22 micron cellulose acetate membrane filter.
 
-7.  Transfer supernatant into new ultracentrifuge tubes and replace back in swing buckets. Be sure to lightly re-grease threads of buckets.
-    1.  Optional: Keep an aliquot of supernatant for purification
-        analysis if desired.
+6.  Transfer supernatant into new ultracentrifuge tubes and replace back in swing buckets. Be sure to lightly re-grease threads of buckets.
+    1.  Optional: Keep an aliquot of supernatant for purification analysis if desired.
 
 6.  Balance tubes with cold PBS as in step 3.
 
-7.  Spin in ultracentrifuge 120,000xg (31,000 RPM with SW 41 Ti) for 70 minutes at 4 degrees C.
-    1.  This is saved as Program 5 on the Optima L-70k Ultracentrifuge
-    2.  *Pellet* after this step contains exosomes
+7.  Spin in ultracentrifuge 118,000*g (31,000 RPM with SW 41 Ti) for 7 hours at 4 degrees C.
+    1.  Requires a *delayed* start in the Ultracentrifuge, timed to complete the spin in the morning when processing can be immediately continued. The holding temperature should be set at 4 degrees C.
+	2.  The spun pellet cannot sit in the ultracentrifuge for long prior to continuing with processing.
+    3.  *Pellet* after this step contains exosomes.
 
+7.	_Alternative:_ If not able to complete processing in the AM which is required by the overnight spin, then spin in ultracentrifuge 118,000*g (31,000 RPM with SW 41 Ti) for 2 hours at 4 degrees C.
+    1.  This is saved as Program 2 on the Optima L-70k Ultracentrifuge
+    2.  *Pellet* after this step contains exosomes
 <!-- 8.  Use a serological pipet to remove the supernatant from the -->
 <!--     samples. Use a pipetman to remove as much supernatant from the -->
 <!--     pellet as possible without disturbing it. -->
@@ -100,8 +105,7 @@ Exosome Isolation - Ultracentrifugation
 <!--     2.  Pellet after this step contains the exosomes. -->
 
 12. Again, use a serological pipet to remove the supernatant from the samples. Use a pipetman to remove as much supernatant from the pellet as possible. Resuspend pellet in 60-120 mcL of PBS and store at -80 degrees C.
-    1.  Optional: If you want to conduct exosomal protein analysis,
-        you can resuspend in lysis buffer (see BCA protocol).
+    1.  Optional: If you want to conduct exosomal protein analysis, you can resuspend in lysis buffer (see BCA protocol).
 
 
 # References
@@ -110,6 +114,12 @@ Exosome Isolation - Ultracentrifugation
 
 2.  Théry, C. Zitvogel, L., Amigorena, S., Exosomes: Composition, Biogenesis and Function. (2002) Nature Reviews: Immunology;2:569—579. [Thery2002](http://www.bibsonomy.org/bibtex/2b9e1c40bc50ea918af7ef122fd540789/aorchid)
 
-3.  Lässer, C., Eldh, M., Lötvall, J. Isolation and Characterization of RNA-Containing Exosomes. (2012) Journal Visualized Experiments;59:e3037. [Laesser2012a](http://www.jove.com/video/3037/isolation-and-characterization-of-rna-containing-exosomes)
+3.  Lässer, C., Eldh, M., Lötvall, J. Isolation and Characterization of RNA-Containing Exosomes. (2012) Journal Visualized Experiments;59:e3037. [Laesser2012a](http://dx.doi.org/10.3791/3037)
 
-[^1]: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11
+4.  Cvjetkovic, Aleksander and Lötvall, Jan and Lässer, Cecilia, The influence of rotor type and centrifugation time on the yield and purity of extracellular vesicles. (2014) Journal of Extracellular Vesicles; 3:23111-23122. [Cvjetkovic2014](http://dx.doi.org/10.3402/jev.v3.23111)
+
+5.  Beckman Coulter Rotor Conversions [weblink](https://www.beckmancoulter.com/wsrportal/wsrportal.portal?_nfpb=true&_windowLabel=UCM_RENDERER&_urlType=render&wlpUCM_RENDERER_path=%2Fwsr%2Fresearch-and-discovery%2Fproducts-and-services%2Fcentrifugation%2Frotors%2Findex.htm&wlpUCM_RENDERER_t=3)
+
+
+[^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-07-23
+
