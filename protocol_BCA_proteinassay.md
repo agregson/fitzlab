@@ -1,10 +1,10 @@
 Protocol: BCA Total Protein Assay 
 ==================================
-Created by SP on 2012-07-17
-Modified by SP on 2012-08-12
-# Notes:
+
+# Notes:[^1]
 -	Protocol was modified from: Thermo Scientific Protocol and Nanodrop 1000 BCA protocol 
 -	See additional Thermo Scientific BCA kit information appended to protocol for buffer compatibility, nanodrop 1000 capability, and kit sensitivity. 
+
 # Materials:
 1.	1x PBS, prepared by N/A on N/A, location: stored at room temperature in 1-L glass reagent bottles rm. 231
 2.	Lysis Buffer, 300 mM NaCl, 50 mM Tris, pH 7.4, 0.5% Triton X-100, Roche anti-protease cocktail, location: stored at room temperature rm. 231
@@ -17,6 +17,7 @@ Modified by SP on 2012-08-12
 5.	PCR tubes, Simport, Lot# 12211865
 6.	Nanodrop 1000
 7.	Ice
+
 # Methods:
 ## BCA Protein Assay
 1.	Prepare BSA standards using PBS as a diluent
@@ -39,3 +40,5 @@ Modified by SP on 2012-08-12
     b.	Use water as the blank
     c.	Reference measurement is the “0” standard
     d.	Remember to save standard curve and data in Gregson folder.
+
+[^1]: Authors/Revision: Created by SP on 2012-07-17; Modified by SP on 2012-08-12

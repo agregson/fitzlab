@@ -1,11 +1,11 @@
-Microwell Staining for Multiparameter Flow Cytometry
+Protocol: Microwell Staining for Multiparameter Flow Cytometry
 ====================================================
 
-# PROTOCOL[^1]
+# Notes:[^1]
 
-All steps are performed in a clean, biological safety cabinet. 
-Once the Vital Stain is introduced into the samples, the lights within the biological safety cabinet are turned off whenever the samples are present. 
-All centrifugation is done with the temperature set at 4 C. 
+-  All steps are performed in a clean, biological safety cabinet. 
+-  Once the Vital Stain is introduced into the samples, the lights within the biological safety cabinet are turned off whenever the samples are present. 
+-  All centrifugation is done with the temperature set at 4 C. 
 
 # Supplies
 
