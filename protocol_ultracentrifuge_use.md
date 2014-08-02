@@ -3,7 +3,7 @@ Protocol: Care and Maintenance of Ultracentrifuge and Rotors
 
 # Protocol Notes:[^1]
 -   Proper use and maintenance of the ultracentrifuge and rotors 
--   Refer to the manuals for further details
+-   Refer to the manuals for further details. All are available both online (see References) and also in the folder by the ultracentrifuge itself.
 
 # Materials: 
 
@@ -81,14 +81,14 @@ Protocol: Care and Maintenance of Ultracentrifuge and Rotors
 
 # References:
 
-1.  File ultracentrifugeUpdate.pdf This is hanging on the wall by the ultracentrifuge.
+1.  File ultracentrifugeUpdate.pdf This is hanging on the wall by the ultracentrifuge. 
 
-2.  Beckman Coulter [Type 45 Ti Rotor Manual](https://www.beckmancoulter.com/wsrportal/page/itemDetails?itemNumber=339160#2/10//0/25/1/0/asc/2/339160///0/1//0/). This is not a direct link.
+2.  Beckman Coulter [Type 45 Ti Rotor Manual](https://github.com/agregson/fitzlab/blob/protocols/Rotortype45Ti.pdf)
 
-3.  Beckman Coulter [SW 41 Ti Rotor Manual](https://www.beckmancoulter.com/wsrportal/page/itemDetails?itemNumber=331362#2/10//0/25/1/0/asc/2/331362//C_TECHNICALDOCS/0/0//1/). This is not a direct link. 
+3.  Beckman Coulter [SW 41 Ti Rotor Manual](https://github.com/agregson/fitzlab/blob/protocols/RotortypeSW41Ti.pdf)
 
-4.  Beckman [Optima L-70k Ultracentrifuge Manual](https://medschool.vanderbilt.edu/cdb-core-lab/files/cdb-core-lab/public_files/L-90K%20Ultra%20Manual.pdf)
+4.  Beckman [Optima L-70k Ultracentrifuge Manual](https://github.com/agregson/fitzlab/blob/protocols/L-90KUltraManual.pdf)
 
-5.  Beckman Coulter Rotors and Tubes [Instructions for Use](https://www.beckmancoulter.com/wsrportal/techdocs?docname=LR-IM-24)
+5.  Beckman Coulter Rotors and Tubes [Instructions for Use](https://github.com/agregson/fitzlab/blob/protocols/RotorsTubesInstructionsBeckman2014.pdf)
 
 [^1]: Author: Aric Gregson 2014-08-01
