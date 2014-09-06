@@ -13,20 +13,17 @@ Protocol: Care and Maintenance of Ultracentrifuge and Rotors
 
 3.  Beckman SW 41 Ti 104.9 buckets (6)
 
-4.  Beckman Polyallomer Centrifuge Tubes, 14 x 89 mm, Lot# Z11208SCA, Reorder# 331372
-
 2.  Beckman Spinkote lubricant, Cat\# 306812
 
 3.  Beckman Vacuum Grease Silicone, Cat\# 335148
+
+4.  Beckman neoprene O-rings 
 
 4.  Beckman Solution 555 (detergent), diluted 1:10
     - Cat\# 339555
 
 5.  Beckman special cleaning brushes
     - Cat\# 339558 as part of the Rotor Cleaning Kit
-
-4.  Beckman Coulter Centrifuge Tubes, FIX ME
-    - Lot\# , Reorder\# 
 
 5.  Beckman Optima L-70k Ultracentrifuge
 

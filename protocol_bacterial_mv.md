@@ -18,6 +18,8 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     - Sigma-Adlrich Mueller Hinton Broth, Cat#70192, Lot#
     - Store prepared media at 4 C in dark
 	- Store dehydrated powder in dry location, Location:
+	- Dissolve 21 g into 1 L ddH20.
+	- Add 1.23 mM calcium chloride dihydrate and 1.03 mM magnesium chloride hexahydrate FIX ME
 
 4. Flask 250 mL, clear sterile plastic
 
@@ -29,17 +31,23 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 6.  50-mL polystyrene conical tubes (Falcon tube)
 
-8.  Beckman SW 41 Ti rotor, serial\# 97U 10110 (swing-bucket rotor)
-
-9.  Beckman SW 41 Ti 104.9 buckets (6)
+8.  Beckman Type 45 Ti rotor, serial\# 11U 4663 (fixed angle rotor, made in 2011)
 
 10.  Beckman Spinkote, Cat\# 306812
 
 11.  Beckman Vacuum Grease Silicone, Cat\# 335148
 
-12.  Beckman Coulter Polyallomer Thin-walled Centrifuge Tubes, 14 x 89 mm, 13.2 mL capacity
-    - Lot\# Z11208SCA, Reorder\# 331372
+12.  Beckman Coulter Centrifuge Tubes, Thinwall, Polypropylene, 94 mL, 38 x 102 mm
+    - Lot\# , Reorder\# 345775
     - can sterilize acid or alkali, not alcohols
+
+8.  Beckman Cap/Spacer Assembly, Aluminum, Tube, 38 mm dia
+    - Cat\# 330901
+    - Requires special neoprene O-rings (see below)
+
+8.  Beckman O-Ring or Gasket, Aluminum, 30.0 mm ID x 37.0 mm OD
+    - Cat\# 346242
+    - For use with the aluminum caps/spacers and the thinwall polyallomer/propylene tubes in 45 Ti rotor
 
 13.  Beckman Optima L-70k Ultracentrifuge
 
@@ -71,14 +79,14 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 2. Prepare and autoclave 1 liter of cation-adjusted Mueller-Hinton Broth medium (containing 1.23 mM calcium chloride dihydrate and 1.03 mM magnesium chloride hexahydrate).
 
-3. Add 200 mL of Mueller-Hinton Broth to sterile 250-mL flasks
+3. Add 1500 mL of Mueller-Hinton Broth to sterile 3L glass Erlenmeyer flasks
 
 4. Using a sterile 10 mcl inoculation loop, scrape a 2 colonies of *Ps. aeruginosa* growth from agar plates (from Day 1) and transfer into 250-mL flask with MHB in it (Step 3). Grow broth cultures at 37 degree C for approximately 6 h with gentle shaking (New Brunswick Scientific Incubator Shaker G25)
 
 5. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^9^ cfu ml^-1^), usually at approximately six hours of incubation.
     - Based on this cfu, the OD would be 0.900
 
-6. Add stock concentration gentamicin to 250/500-mL bacterial culture flasks to final concentration of 8 mcL/mL. Incubate gentamicin in the culture flask x30 minutes on orbital shaker at 37 degrees C.
+6. Add stock concentration gentamicin to 3L bacterial culture flasks to final concentration of 8 mcL/mL. Incubate gentamicin in the culture flask x30 minutes on orbital shaker at 37 degrees C.
     - 32 mcL for 200 mL culture volume
     - 16 mcL for 100 mL culture volume
 
@@ -97,7 +105,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
-12. Spin samples in ultracentrifuge, 150,000 g (35,000 RPM with SW 41 Ti) for 3 hours at 4 degrees C.
+12. Spin samples in ultracentrifuge, 150,000 g (44,000 RPM with 45 Ti) for 3 hours at 4 degrees C.
     1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains the membrane vesicles. Mark location of pellet with pen to facilitate extraction.
     3.  Discard the supernatant.
@@ -114,7 +122,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     2.  Fill tubes leaving only a few millimeters of empty space.
     3.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
-16. Spin samples in ultracentrifuge, 120,000 g (32,000 RPM with SW 41 Ti) for 30 minutes at 4 degrees C.
+16. Spin samples in ultracentrifuge, 120,000 g (39,000 RPM with 45 Ti) for 30 minutes at 4 degrees C.
     1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains the membrane vesicles.
     3.  Discard the supernatant.
@@ -140,5 +148,6 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 5. Huntley, J.F., Robertson, G.T., Norgard, M.V. Method for the Isolation of Francisella tularensis Outer Membranes. J. Vis. Exp. (40), e2044, doi:10.3791/2044 (2010). (isolation of membrane proteins themselves)
 
+6. Beckman Coulter Rotor Conversions [weblink](https://www.beckmancoulter.com/wsrportal/wsrportal.portal?_nfpb=true&_windowLabel=UCM_RENDERER&_urlType=render&wlpUCM_RENDERER_path=%2Fwsr%2Fresearch-and-discovery%2Fproducts-and-services%2Fcentrifugation%2Frotors%2Findex.htm&wlpUCM_RENDERER_t=3)
 
 [^1]: Authors: Created by Patil Injean on 2014-06-30; Modified by ALG 2014-07

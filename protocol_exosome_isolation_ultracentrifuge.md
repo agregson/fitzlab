@@ -1,7 +1,7 @@
 Exosome Isolation - Ultracentrifugation
 =======================================
 
-# Protocol Notes [^1] 
+# Protocol Notes [^1] DRAFT
 
 -   This protocol was originally modified from Thery2006, then modified after Laesser2012 and most recently updated to reflect findings in Cvjetkovic2014 reflecting changes in centrifuge rotors and lab equipment.
 
@@ -11,7 +11,7 @@ Exosome Isolation - Ultracentrifugation
 
 -   Threads of ultracentrifuge buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease.
 
--   Must refrigerate SW 41 Ti rotor buckets at 4 degrees C prior to running.
+-   Must refrigerate 45 Ti rotor buckets at 4 degrees C prior to running.
 
 -   Spins are programmed into the L-70k centrifuge for ease of use. Please see page 3-2 of the manual for Programmed Usage.
 
@@ -30,15 +30,23 @@ Exosome Isolation - Ultracentrifugation
 
 2.  Phosphate Buffered Saline (PBS) 1x, prepared on N/A by N/A, location: stored at room temperature in 1-L glass reagent bottle
 
-3.  Beckman SW 41 Ti rotor, serial\# 97U 10110 (swing-bucket rotor)
-
-4.  Beckman SW 41 Ti 104.9 buckets (6)
+3.  Beckman 45 Ti rotor, serial\# 11U 4663 (fixed angle rotor, made in 2011)
 
 5.  Beckman Spinkote, Cat\# 306812
 
 6.  Beckman Vacuum Grease Silicone, Cat\# 335148
 
-7.  Beckman Polyallomer Centrifuge Tubes, 14 x 89 mm, Lot\# Z11208SCA, Reorder\# 331372
+7.  Beckman Centrifuge Tubes, Thinwall, Polypropylene, 94 mL, 38 x 102 mm
+    - Cat\# 345775
+    - Require special caps/spacers for use in 45 Ti rotor
+
+8.  Beckman Cap/Spacer Assembly, Aluminum, Tube, 38 mm dia
+    - Cat\# 330901
+    - Requires special neoprene O-rings (see below)
+
+8.  Beckman O-Ring or Gasket, Aluminum, 30.0 mm ID x 37.0 mm OD
+    - Cat\# 346242
+    - For use with the aluminum caps/spacers and the thinwall polyallomer/propylene tubes in 45 Ti rotor
 
 8.  Beckman Optima L-70k Ultracentrifuge
 
@@ -65,7 +73,7 @@ Exosome Isolation - Ultracentrifugation
     1.  Fill tubes leaving only a few millimeters of empty space.
     2.  Tubes must be weighed within 0.1 – 0.2 g of each other
 
-4.  Spin samples in ultracentrifuge, 16,500*g (11,500 RPM with SW 41 Ti) for 44 minutes at 4 degrees C.
+4.  Spin samples in ultracentrifuge, 16,500*g (14,500 RPM with 45 Ti) for 25 minutes at 4 degrees C.
     1.  This is saved as Program 4 on the Optima L-70k Ultracentrifuge
     2.  *Supernatant* after this step contains the exosomes.
 
@@ -78,14 +86,15 @@ Exosome Isolation - Ultracentrifugation
 
 6.  Balance tubes with cold PBS as in step 3.
 
-7.  Spin in ultracentrifuge 118,000*g (31,000 RPM with SW 41 Ti) for 7 hours at 4 degrees C.
+7.  Spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti) for 5 hours at 4 degrees C.
     1.  Requires a *delayed* start in the Ultracentrifuge, timed to complete the spin in the morning when processing can be immediately continued. The holding temperature should be set at 4 degrees C.
 	2.  The spun pellet cannot sit in the ultracentrifuge for long prior to continuing with processing.
     3.  *Pellet* after this step contains exosomes.
 
-7.	_Alternative:_ If not able to complete processing in the AM which is required by the overnight spin, then spin in ultracentrifuge 118,000*g (31,000 RPM with SW 41 Ti) for 2 hours at 4 degrees C.
+7.	_Alternative:_ If not able to complete processing in the AM which is required by the overnight spin, then spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti) for 1.5 hours at 4 degrees C.
     1.  This is saved as Program 2 on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains exosomes
+	3.  Overnight, longer spin is much preferred due to increased yields
 
 <!-- 8.  Use a serological pipet to remove the supernatant from the -->
 <!--     samples. Use a pipetman to remove as much supernatant from the -->
@@ -122,5 +131,5 @@ Exosome Isolation - Ultracentrifugation
 5.  Beckman Coulter Rotor Conversions [weblink](https://www.beckmancoulter.com/wsrportal/wsrportal.portal?_nfpb=true&_windowLabel=UCM_RENDERER&_urlType=render&wlpUCM_RENDERER_path=%2Fwsr%2Fresearch-and-discovery%2Fproducts-and-services%2Fcentrifugation%2Frotors%2Findex.htm&wlpUCM_RENDERER_t=3)
 
 
-[^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-07-23
+[^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-08-01
 
