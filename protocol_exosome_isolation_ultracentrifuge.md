@@ -1,7 +1,7 @@
 Exosome Isolation - Ultracentrifugation
 =======================================
 
-# Protocol Notes [^1] DRAFT
+# Protocol Notes [^1]
 
 -   This protocol was originally modified from Thery2006, then modified after Laesser2012 and most recently updated to reflect findings in Cvjetkovic2014 reflecting changes in centrifuge rotors and lab equipment.
 
@@ -46,7 +46,7 @@ Exosome Isolation - Ultracentrifugation
     - Cat\# 331372
     - These are for the SW 41 Ti rotor (swing bucket type)
 
-8.  Beckman Cap/Spacer Assembly, Aluminum, Tube, 38 mm dia
+8.  Beckman Cap/Spacer Assembly, Aluminum, Tube, 38 mm diameter
     - Cat\# 330901
     - Requires special neoprene O-rings (see below)
 
