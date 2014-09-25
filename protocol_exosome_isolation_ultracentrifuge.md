@@ -137,5 +137,5 @@ Exosome Isolation - Ultracentrifugation
 5.  Beckman Coulter Rotor Conversions [weblink](https://www.beckmancoulter.com/wsrportal/wsrportal.portal?_nfpb=true&_windowLabel=UCM_RENDERER&_urlType=render&wlpUCM_RENDERER_path=%2Fwsr%2Fresearch-and-discovery%2Fproducts-and-services%2Fcentrifugation%2Frotors%2Findex.htm&wlpUCM_RENDERER_t=3)
 
 
-[^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-08-01
+[^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-08-01/2014-09-24
 
