@@ -83,7 +83,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 4. Using a sterile 10 mcl inoculation loop, scrape a 2 colonies of *Ps. aeruginosa* growth from agar plates (from Day 1) and transfer into 250-mL flask with MHB in it (Step 3). Grow broth cultures at 37 degree C for approximately 6 h with gentle shaking (New Brunswick Scientific Incubator Shaker G25)
 
-5. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^9^ cfu ml^-1^), usually at approximately six hours of incubation.
+5. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1-ml aliquot from each 250/500-ml culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10^9^ cfu ml^-1^), usually at approximately six to eight hours of incubation.
     - Based on this cfu, the OD would be 0.900
 
 6. Add stock concentration gentamicin to 3L bacterial culture flasks to final concentration of 8 mcL/mL. Incubate gentamicin in the culture flask x30 minutes on orbital shaker at 37 degrees C.
@@ -122,10 +122,11 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     2.  Fill tubes leaving only a few millimeters of empty space.
     3.  Tubes must be weighed within 0.1 – 0.2 g of one another
 
-16. Spin samples in ultracentrifuge, 120,000 g (39,000 RPM with 45 Ti) for 30 minutes at 4 degrees C.
+16. Spin samples in ultracentrifuge, 120,000 g (39,000 RPM with 45 Ti) for 30 minutes at 4 degrees C. (Alternatively, use the SW41 Ti at 31,174 RPM for 52 minutes at 4 degrees C.) 
     1.  This is saved as Program ? on the Optima L-70k Ultracentrifuge
     2.  *Pellet* after this step contains the membrane vesicles.
     3.  Discard the supernatant.
+
 
 21. Using serological pipet, resuspend pellet in 200-400 mcL of 50 mM HEPES 
 
