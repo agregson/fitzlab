@@ -151,4 +151,4 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 6. Beckman Coulter Rotor Conversions [weblink](https://www.beckmancoulter.com/wsrportal/wsrportal.portal?_nfpb=true&_windowLabel=UCM_RENDERER&_urlType=render&wlpUCM_RENDERER_path=%2Fwsr%2Fresearch-and-discovery%2Fproducts-and-services%2Fcentrifugation%2Frotors%2Findex.htm&wlpUCM_RENDERER_t=3)
 
-[^1]: Authors: Created by Patil Injean on 2014-06-30; Modified by ALG 2014-07
+[^1]: Authors: Created by Patil Injean on 2014-06-30; Modified by ALG 2014-07 & 2014-11
