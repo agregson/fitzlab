@@ -18,9 +18,15 @@ Created by SP on 2012-08-14
 4.	Withdrawl 10-µL of cell suspension/Trypan Blue and carefully pipet into hemocytometer until grid surface is covered.
 5.	Using the microscope, begin cell counting in the four large squares (each composed of nine smaller squares).
 6.	Average the cell count in the four large squares and use the following calculation to obtain the approximate cell concentration (cells/mL)
+
     a.	(average cell count in large squares)x(dilution factor)x(total cell suspension volume)x(104) = x cells/mL
+    
     b.	Dilution factor in this case is 2
+    
     c.	Total cell suspension is equal to the volume measured in step 1
+    
 7.	For viability use the following calculation
+
     a.	[(# viable cells)/(total # of cells)]x100 = % viable cells
+    
 8.	Discard remainder of cell suspension/Trypan Blue in biohazard bin after cell count is recorded.
