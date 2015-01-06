@@ -5,10 +5,12 @@ Created by SP on 2012-08-14
 # Notes:
 -	There are several methods of cell counting with a hemocytometer, but all are essentially the same. For alternative methods of counting, see attached literature, or consult other cell counting protocols. 
 -	Clean Hemocytometer and cover slip with 70% ethanol and allow to dry prior to use.
+	
 # Materials:
 1.	Hemocytometer, location: bench drawer near cell counting microscope rm. 226
 2.	Trypan Blue Solution (0.4%), Sigma, Lot# 108K2349, CAS# 72-57-1, location: stored at room temperature rm. 226
 3.	Microscope, location: rm. 226
+
 # Methods:
 1.	Record the volume of the cell suspension and invert or mix with a serological pipet several times. 
 2.	Aliquot 10-µL of cell suspension into a 0.65-mL microcentrifuge tube.
