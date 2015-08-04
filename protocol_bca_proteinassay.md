@@ -1,7 +1,7 @@
 Protocol: BCA Total Protein Assay 
 ==================================
 
-# Notes:[^1]
+# Notes:
 -	Protocol was modified from: Thermo Scientific Protocol and Nanodrop 1000 BCA protocol 
 -	See additional Thermo Scientific BCA kit information appended to protocol for buffer compatibility, nanodrop 1000 capability, and kit sensitivity. 
 
