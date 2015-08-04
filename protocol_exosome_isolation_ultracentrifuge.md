@@ -83,26 +83,29 @@ Exosome Isolation - Ultracentrifugation
 
 4.  Spin samples in ultracentrifuge, 16,500*g (14,500 RPM with 45 Ti) for 25 minutes at 4 degrees C. _Alternatively_, use SW 41 Ti (11,500 RPM) 44 minutes at 4 degrees C.
     1.  This is saved as Program 4 on the Optima L-70k Ultracentrifuge
+    2.  This step is designed to remove most non-exosome microvesicles.
     2.  *Supernatant* after this step contains the exosomes.
 
 5.  Use serological pipet to remove supernatant from each tube, again being careful not to disturb the pellet.
+    1.  Please save this pellet in a 1.5mL Cryovial 
+    2.  Place in the box at -80C labeled "First Pellet" BALF ultracentrifugation
 
-6.  Transfer to a 60 mL sterile syringe and filter through 0.22 micron cellulose acetate membrane filter.
+6.  Transfer supernatant to a 60 mL sterile syringe and filter through 0.22 micron cellulose acetate membrane filter.
 
-6.  Transfer supernatant into new ultracentrifuge tubes and replace back in swing buckets. Be sure to lightly re-grease threads of buckets.
+6.  Transfer supernatant into new ultracentrifuge tubes (usually the swing bucket, SW, rotor can be used at this stage). Be sure to lightly re-grease threads of buckets.
     1.  Optional: Keep an aliquot of supernatant for purification analysis if desired.
 
 6.  Balance tubes with cold PBS as in step 3.
 
 7.  Spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti) for 5 hours at 4 degrees C. _Alternatively_, use SW 41 Ti (31,000 RPM) for 6.5 hours at 4 degress C. 
     1.  Requires a *delayed* start in the Ultracentrifuge, timed to complete the spin in the morning when processing can be immediately continued. The holding temperature should be set at 4 degrees C.
-	2.  The spun pellet cannot sit in the ultracentrifuge for long prior to continuing with processing.
+    2.  The spun pellet cannot sit in the ultracentrifuge for long prior to continuing with processing.
     3.  *Pellet* after this step contains exosomes.
 
 7.	_Alternative:_ If not able to complete processing in the AM which is required by the overnight spin, then spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti) for 1.5 hours at 4 degrees C. _Alternatively_, use SW 41 Ti (31,000 RPM) for 2 hours at 4 degress C. 
     1.  This is saved as Program 2 on the Optima L-70k Ultracentrifuge
-    2.  *Pellet* after this step contains exosomes
-	3.  Overnight, longer spin is much preferred due to increased yields
+    2.  This _shorter spin is highly discouraged_. Overnight, longer spin is much preferred due to increased yields
+    3.  *Pellet* after this step contains exosomes
 
 <!-- 8.  Use a serological pipet to remove the supernatant from the -->
 <!--     samples. Use a pipetman to remove as much supernatant from the -->
@@ -124,6 +127,8 @@ Exosome Isolation - Ultracentrifugation
 
 12. Again, use a serological pipet to remove the supernatant from the samples. Use a pipetman to remove as much supernatant from the pellet as possible. Resuspend pellet in 60-120 mcL of PBS and store at -80 degrees C.
     1.  Optional: If you want to conduct exosomal protein analysis, you can resuspend in lysis buffer (see BCA protocol).
+    2.  Save two 1.8mL aloquots of the supernatant in 2mL Cryovials. 
+    3.  Place these supernatant samples in the -80C freezer box "Second Supernatant" BALF ultracentrifugation.
 
 
 # References
@@ -139,5 +144,5 @@ Exosome Isolation - Ultracentrifugation
 5.  Beckman Coulter Rotor Conversions [weblink](https://www.beckmancoulter.com/wsrportal/wsrportal.portal?_nfpb=true&_windowLabel=UCM_RENDERER&_urlType=render&wlpUCM_RENDERER_path=%2Fwsr%2Fresearch-and-discovery%2Fproducts-and-services%2Fcentrifugation%2Frotors%2Findex.htm&wlpUCM_RENDERER_t=3)
 
 
-[^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-08-01/2014-09-24
+[^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-08-01/2014-09-24/2015-08-04
 
