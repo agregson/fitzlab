@@ -133,7 +133,7 @@ Again, the light within the biosafety cabinet should be turned off when working 
       - 4 mcL FoxP3-V450
       - 2 mcL Ki67-FITC
       - 2 mcL each IL-17 A & F Alexa488
-      - 2 mcL PE-$\psi$ 5 IFN-$\gamma$
+      - 2 mcL PE-psi-5 IFN-gamma
    - *Incubate 30 minutes at 4 C*
 	
 5.  Wash off excess antibody in Permeabilization Buffer.
