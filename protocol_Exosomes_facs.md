@@ -4,7 +4,7 @@ Protocol: Characterization of Exosomal Protein - Flow Cytometry
 
 # Protocol Notes:
 
--   Protocol has been modified from several references [@Thery2006;@Laesser2012a]
+-   Protocol has been modified from several references (see below)
 -   BCA or Bradford total protein assay must be conducted on samples prior to flow cytometry preparation (see appropriate protocol).
 -   Pellet during spin steps will be difficult to detect. Place centrifuge tubes in centrifuge with hinge out to keep track of where the pellet is located.
 -   For further optimization of this assay, refer to Latex Bead protocol by Life Technologies, which is attached to this protocol.
@@ -51,6 +51,8 @@ Protocol: Characterization of Exosomal Protein - Flow Cytometry
 
 # References
 
+1. Théry, C.; Amigorena, S.; Raposo, G. & Clayton, A. Isolation and characterization of exosomes from cell culture supernatants and biological fluids. Curr Protoc Cell Biol, Institut Curie, Paris, France., 2006, Chapter 3, Unit 3.22
+2. Lässer, C.; Eldh, M. & Lötvall, J. Isolation and characterization of RNA-containing exosomes. J Vis Exp, Krefting Research Centre, Department of Internal Medicine, Sahlgrenska Academy, University of Gothenburg., 2012, 59, e3037
 
 
 [^1]: Authors: Created by SPoynter on 2012-06-25; Modified by SP on 2012-08-13
