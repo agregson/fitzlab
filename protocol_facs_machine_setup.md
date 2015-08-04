@@ -4,7 +4,7 @@ Created by PI on 2012-10-19
 # Notes:
    - Make sure you turn on FACS machine before the computer.
    - FACS fluid can go down the drain. If samples are biohazard, put 10% bleach in the waste container. 
-   - 
+
 # Materials:
 1.	FACS machine, location: machine and apple computer rm. 24-219
 2.	2 cleaning FACS tubes filled with DI water   
