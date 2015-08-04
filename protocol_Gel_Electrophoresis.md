@@ -3,6 +3,7 @@ Protocol: Gel Electrophoresis
 
 # Protocol Notes:
 -   Protocol was modified from: Thermo Scientific Precise Protein Gels Handbook
+-   It was used for bacterial microvesicle identification
 
 # Materials: 
 
