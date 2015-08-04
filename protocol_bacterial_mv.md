@@ -18,9 +18,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     - Sigma-Adlrich Mueller Hinton Broth, Cat#70192, Lot#
     - Store prepared media at 4 C in dark
 	- Store dehydrated powder in dry location, Location:
-	- Dissolve 23 g into 1 L ddH20.
-	- Add 10mg MgCl<sub>2</sub> 
-	- Add 20mg CaCl<sub>2</sub>
+
 
 4. Flask 1000 mL, clear sterile glass (autoclave before use)
 5. Glass bottles 1000 mL x3 (autoclave before use)
@@ -74,14 +72,9 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     - Pierce
     - mirco optimized for 0.5-20 mcg protein ml<sup>-1</sup>
 
-19. Trypticase Soy Agar (TSA) plate, Location: Refrigerator #20, BD Cat#B11043 
-   - Dissovle 20 g into 500 mL ddH2O.  
-   - Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.
-   - Autoclave at 121 degrees C for 15 minutes (IMED autoclave settings: easy cycle, liquid, 15 minutes). 
-   - At this time, turn waterbath on to 55 degree C.
-   - Remove from autoclave, mix solution by swirling to avoid clump/chunks.  
-   - Place in 55 degree C waterbath, lay out dishes in hood (save bags), pipette 20-25 mL per plate (make sure to swirl solution around to avoid solidifying).  
-   - Let dry 10-20 minutes, cover, flip, store in original bags at 4 degrees C.
+19. Trypticase Soy Agar (TSA) plates, Location: Refrigerator #20, BD Cat#B11043 
+   - Are kept at 4 degree C
+   - Need to ensure they are made (see below for directions)
 
 20. 0.45 & 0.22 micron cellulose acetate membrane filters
     - Osmonics?
@@ -91,9 +84,19 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 # Methods: 
 
-1. Prepare and autoclave 1 liter of cation-adjusted Mueller-Hinton Broth (MHB) medium (containing 1.23 mM calcium chloride dihydrate and 1.03 mM magnesium chloride hexahydrate).
-   - 1L ddH20 + 23g MHB + 0.9mL magnesium chloride hexahydrate + 2.25mL calcium chloride
+1. Prepare 1 L cation-adjusted Mueller-Hinton Broth (CA-MHB) medium (containing 1.23 mM calcium chloride dihydrate and 1.03 mM magnesium chloride hexahydrate).
+   - Dissolve 23 g of MHB powder into 1 L ddH20
+   - Add 10mg MgCl<sub>2</sub> 
+   - Add 20mg CaCl<sub>2</sub>
    - Autoclave with the wet cycle after mixing the components. When autoclaving, be careful to not completely seal the caps. 
+2. Prepare Trypticase Soy Agar (TSA) plates  
+   - Dissovle 20 g into 500 mL ddH2O.  
+   - Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.
+   - Autoclave at 121 degrees C for 15 minutes (IMED autoclave settings: easy cycle, liquid, 15 minutes). 
+   - At this time, turn waterbath on to 55 degree C.
+   - Remove from autoclave, mix solution by swirling to avoid clump/chunks.  
+   - Place in 55 degree C waterbath, lay out dishes in hood (save bags), pipette 20-25 mL per plate (make sure to swirl solution around to avoid solidifying).  
+   - Let dry 10-20 minutes, cover, flip, store in original bags at 4 degrees C.
    
 2. Place Type 45 Ti rotor in the ultracentrifuge and vacuum the chamber at 4 degrees celsius on the same day you set up the culture. Let it be cooled overnight
 3. Add 600 mL of Mueller-Hinton Broth to sterile 1L glass Erlenmeyer flasks
