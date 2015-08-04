@@ -1,11 +1,12 @@
 Protocol: Isolation of Bacterial Membrane Vesicles
 ==================================================
 
-# Protocol Notes:[^1]
+# Protocol Notes:
 -   Grow pseudomonas from frozen stock to provide supernatant for membrane vesicles
 -   Purpose is to isolate the bacterial membrane vesicles using ultracentrifugation
 -   Threads of ultracentrifuge buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease. 
 -   Must refrigerate SW 41 Ti rotor buckets at 4 degrees C prior to running.
+-   Have the supernatants and cell culture on ice as they are being prepared or they will continue to grow
 
 # Materials: 
 
@@ -17,10 +18,12 @@ Protocol: Isolation of Bacterial Membrane Vesicles
     - Sigma-Adlrich Mueller Hinton Broth, Cat#70192, Lot#
     - Store prepared media at 4 C in dark
 	- Store dehydrated powder in dry location, Location:
-	- Dissolve 21 g into 1 L ddH20.
-	- Add 1.23 mM calcium chloride dihydrate and 1.03 mM magnesium chloride hexahydrate *FIX ME*
+	- Dissolve 23 g into 1 L ddH20.
+	- Add 10mg MgCl<sub>2</sub> 
+	- Add 20mg CaCl<sub>2</sub>
 
-4. Flask 250 mL, clear sterile plastic
+4. Flask 1000 mL, clear sterile glass (autoclave before use)
+5. Glass bottles 1000 mL x3 (autoclave before use)
 
 5. Inoculating loops, sterile plastic, single use
     - Fisherbrand, Cat#13-075-1
@@ -69,11 +72,16 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 18. (Micro) BCA protein assay reagent kit
     - Pierce
-    - mirco optimized for 0.5-20 mcg protein ml^-1^
+    - mirco optimized for 0.5-20 mcg protein ml<sup>-1</sup>
 
 19. Trypticase Soy Agar (TSA) plate, Location: Refrigerator #20, BD Cat#B11043 
-    1. Dissovle 20 g into 500 mL ddH2O.  Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.  Autoclave at 121 degrees C for 15 minutes (IMED autoclave settings: easy cycle, liquid, 15 minutes). At this time, turn waterbath on to 55 degree C.
-    2. Remove from autoclave, mix solution by swirling to avoid clump/chunks.  Place in 55 degree C waterbath, lay out dishes in hood (save bags), pipette 20-25 mL per plate (make sure to swirl solution around to avoid solidifying).  Let dry 10-20 minutes, cover, flip, store in original bags at 4 degrees C.
+   - Dissovle 20 g into 500 mL ddH2O.  
+   - Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.
+   - Autoclave at 121 degrees C for 15 minutes (IMED autoclave settings: easy cycle, liquid, 15 minutes). 
+   - At this time, turn waterbath on to 55 degree C.
+   - Remove from autoclave, mix solution by swirling to avoid clump/chunks.  
+   - Place in 55 degree C waterbath, lay out dishes in hood (save bags), pipette 20-25 mL per plate (make sure to swirl solution around to avoid solidifying).  
+   - Let dry 10-20 minutes, cover, flip, store in original bags at 4 degrees C.
 
 20. 0.45 & 0.22 micron cellulose acetate membrane filters
     - Osmonics?
