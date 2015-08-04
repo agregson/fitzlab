@@ -3,25 +3,26 @@ Exosome Isolation - Ultracentrifugation
 
 # Protocol Notes [^1]
 
--   This protocol was originally modified from Thery2006, then modified after Laesser2012 and most recently updated to reflect findings in Cvjetkovic2014 reflecting changes in centrifuge rotors and lab equipment.
+-   The longer spin times should always be used unless there is an extreme exception. 
 
 -   This protocol is suitable for serum, BALF, and most other biological fluids. 
 
--   If used in medium, FCS must be exosome free. FCS can be replaced with insulin-transferrin-sodium-selenite supplement or BSA (1% w/v) if desired (Thery2002)
+-   If used in medium, FCS must be exosome free. FCS can be replaced with insulin-transferrin-sodium-selenite supplement or BSA (1% w/v) if desired (Thery2002). It preferred that the exosomes be ultracentrifuged out of the media. 
 
--   Threads of ultracentrifuge buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease.
+-   Threads of ultracentrifuge buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease. An extremely thin layer should be applied. You should not see grease when done with applicaiton. 
 
 -   Must refrigerate SW 41 Ti rotor buckets at 4 degrees C prior to running.
 
 -   Spins are programmed into the L-70k centrifuge for ease of use. Please see page 3-2 of the manual for Programmed Usage.
+-   This protocol was originally modified from Thery2006, then modified after Laesser2012 and most recently updated to reflect findings in Cvjetkovic2014 reflecting changes in centrifuge rotors and lab equipment.
 
 ### Biohazard Safety
 
--    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or Bacdown disinfectant. 
--    Use universal biosafety precautions, wear a lab coat and disposable gloves, and other appropriate PPE.
--    When disposing BAL fluids, add bleach to the discarded fluid for 10% bleach solution to disinfect the cells and fluid at least 10 minutes, then discard and rinse down the drain. 
+-    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or BacDown disinfectant. 
+-    Use universal biosafety precautions, wear a barrier resistant lab coat, disposable gloves, and other appropriate PPE.
+-    When disposing BAL fluids, add 10% bleach solution to the discarded fluid to disinfect the cells and fluid for at least 10 minutes ("10 for 10"), then discard and rinse down the drain. 
 -    While spinning in centrifuge, cover the samples with the "Biohazard" caps to prevent the spread of infectious content in the case of a spill. 
--    Dispose trash in the designated "Biohazard" trashcans. Be sure to double bag the pipets before disposal. 
+-    Dispose of trash in the designated "Biohazard" trash cans. Be sure to double bag the pipets before disposal. 
 
 
 # Materials
@@ -77,7 +78,8 @@ Exosome Isolation - Ultracentrifugation
 
 3.  Balance ultracentrifuge tubes with cold PBS using a scale.
     1.  Fill tubes leaving only a few millimeters of empty space.
-    2.  Tubes must be weighed within 0.1 – 0.2 g of each other
+    2.  SW (swing bucket) tubes must be weighed to within 0.1 – 0.2 g of each other
+    3.  Non-SW tubes can be weighted to within 0.5g of each other. 
 
 4.  Spin samples in ultracentrifuge, 16,500*g (14,500 RPM with 45 Ti) for 25 minutes at 4 degrees C. _Alternatively_, use SW 41 Ti (11,500 RPM) 44 minutes at 4 degrees C.
     1.  This is saved as Program 4 on the Optima L-70k Ultracentrifuge
