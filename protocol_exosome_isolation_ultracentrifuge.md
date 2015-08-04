@@ -78,8 +78,8 @@ Exosome Isolation - Ultracentrifugation
 
 3.  Balance ultracentrifuge tubes with cold PBS using a scale.
     1.  Fill tubes leaving only a few millimeters of empty space.
-    2.  SW (swing bucket) tubes must be weighed to within 0.1 – 0.2 g of each other
-    3.  Non-SW tubes can be weighted to within 0.5g of each other. 
+    2.  SW 41Ti 14mL tubes (swing bucket) must be weighed to within 0.1 – 0.2 g of each other
+    3.  The 94mL 45Ti tubes can be weighted to within 1g of each other. 
 
 4.  Spin samples in ultracentrifuge, 16,500*g (14,500 RPM with 45 Ti) for 25 minutes at 4 degrees C. _Alternatively_, use SW 41 Ti (11,500 RPM) 44 minutes at 4 degrees C.
     1.  This is saved as Program 4 on the Optima L-70k Ultracentrifuge
