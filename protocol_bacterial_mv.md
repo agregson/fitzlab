@@ -76,7 +76,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 2. Place Type 45 Ti rotor in the ultracentrifuge and vacuum the chamber at 4 degrees celsius on the same day you set up the culture. Let it be cooled overnight
 3. Add 600 mL of Mueller-Hinton Broth to sterile 1L glass Erlenmeyer flask
 4. Using a micropipette, unload three tubes of *Ps. aeruginosa* working stock and transfer into a 1000 mL flask with 600ml of MHB in it. Grow broth culture at 37 degree C for approximately 8 h with gentle shaking (New Brunswick Scientific Incubator Shaker G25)
-5. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1mL aliquot from each culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10<sup>9</sup> cfu ml<sup>-1</sup>), at approximately eight hours of incubation.
+5. Obtain *Ps. aeruginosa* cultures from the shaking incubator and remove a 1mL aliquot from each culture to check the respective optical densities. Late exponential phase *Ps. aeruginosa* is used (~ 10<sup>9</sup> cfu/ml), at approximately eight hours of incubation.
    - Based on this cfu, the OD would be 0.596
 6. _Optional_: Add stock concentration gentamicin to 1L bacterial culture flasks to final concentration of 8 mcL/mL. Incubate gentamicin in the culture flask x30 minutes on orbital shaker at 37 degrees C.
    - 32 mcL for 200 mL culture volume
@@ -108,6 +108,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
    - Discard the supernatant.
 15. Using serological pipet, resuspend pellet in 200-400 mcL of 50 mM HEPES 
 16. Determine membrane vesicle protein content using a (Micro) BCA protein assay reagent kit using the NanoDrop.
+    - https://github.com/agregson/fitzlab/blob/protocols/protocol_bca_proteinassay.md
 17. Plate approximately 1/20 of each final pellet (~25 mcg from each pellet) on TSA plate and incubate at 37 degrees C x48h to ensure no bacterial colonies form.
    - If no colonies form, then membrane vesicle pellet can be considered sterile
 18. Freeze membrane vesicles at -80 degree C in freezer #2, shelf #4.
