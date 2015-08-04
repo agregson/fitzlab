@@ -47,6 +47,10 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 8.  Beckman O-Ring or Gasket, Aluminum, 30.0 mm ID x 37.0 mm OD
     - Cat\# 346242
     - For use with the aluminum caps/spacers and the thinwall polyallomer/propylene tubes in 45 Ti rotor
+9.  Beckman SW 41 Ti rotor, serial\# 97U 10110 (swing-bucket rotor) 
+10.  Beckman Polyallomer Centrifuge Tubes, 14 x 89 mm,
+    - Cat\# 331372
+    - These are for the SW 41 Ti rotor (swing bucket type)
 
 13.  Beckman Optima L-70k Ultracentrifuge
 
