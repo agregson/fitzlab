@@ -14,8 +14,8 @@ Protocol: Microwell Staining for Multiparameter Flow Cytometry
    - Made as a 25X stock solution and diluted to 1X prior to use:
       - 175.33g NaCl
       - 5.03g KCl
-      - 88g NaH~2~PO~4~
-      - 31.05g Na~2~HPO~4~
+      - 88g NaH<sub>2</sub>PO<sub>4</sub>
+      - 31.05g Na<sub>2</sub>HPO<sub>4</sub>
       - Dissolve into 1 liter deionized water.
 2. Wash Buffer 
    - PBS + 4% fetal calf serum (FCS) + 0.1% Na Azide (or alternative such as Kathon)
@@ -93,7 +93,7 @@ Make sure that the biosafety cabinet hood lights are off.
 2. Stain the cells.
    - Add the ster x of surface mAb sufficient quantity to each well.
       - If the total staining volume per well is not >=24 mcL, add sufficient Wash Buffer to make each well's total volume >=24 mcL.
-   - x each well with 10 mcL pipet, up and down 5--10 times.
+   - x each well with 10 mcL pipet, up and down 5-10 times.
    - *Incubate at 4 C for 30 minutes* in a cold, dark refrigerator.
 	
 3. Wash excess antibody off of the cells.
