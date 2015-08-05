@@ -14,11 +14,11 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 1. Pseudomonas aeruginosa ATCC #27853, Location: Freezer -80 #2, Shelf 4
 2. Gentamicin stock 50 mg/ml, Location: Refrigerator #20
-3. Mueller Hinton Broth (MHB), Location: Refrigerator #20 (prepared)
+3. Cation Adjusted Mueller Hinton Broth (CA-MHB), Location: Refrigerator #20 (prepared)
    - Sigma-Adlrich Mueller Hinton Broth, Cat#70192, Lot#
    - Store dehydrated powder in dry location, Location:
-   - Store prepared media at 4 C in dark
-   - If none available, refer to https://github.com/agregson/fitzlab/blob/protocols/protocol_culture_pseudomonas_cfu.md
+   - Store prepared media at room temperature (will help to check for contamination)
+   - If none available, make more. Refer to https://github.com/agregson/fitzlab/blob/protocols/protocol_culture_pseudomonas_cfu.md
 4. Trypticase Soy Agar (TSA) plates, Location: Refrigerator #20, BD Cat#B11043 
    - Are kept at 4 degree C
    - If need to make more, refer to https://github.com/agregson/fitzlab/blob/protocols/protocol_culture_pseudomonas_cfu.md
@@ -63,20 +63,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 
 # Methods
 
-1. Prepare 1 L cation-adjusted Mueller-Hinton Broth (CA-MHB) medium (containing 1.23 mM calcium chloride dihydrate and 1.03 mM magnesium chloride hexahydrate).
-   - Dissolve 23 g of MHB powder into 1 L ddH20
-   - Add 10mg MgCl<sub>2</sub> 
-   - Add 20mg CaCl<sub>2</sub>
-   - Autoclave 121 degree C for 15 minutes with the wet cycle after mixing the components. When autoclaving, be careful to not completely seal the caps. 
-   - Store prepared broth at 4C in the dark
-2. Prepare Trypticase Soy Agar (TSA) plates  
-   - Dissovle 20 g into 500 mL ddH2O.  
-   - Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.
-   - Autoclave at 121 degree C for 15 minutes (IMED autoclave settings: easy cycle, liquid, 15 minutes). 
-   - At this time, turn waterbath on to 55 degree C.
-   - Remove from autoclave, mix solution by swirling to avoid clump/chunks.  
-   - Place in 55 degree C waterbath, lay out dishes in hood (save bags), pipette 20-25 mL per plate (make sure to swirl solution around to avoid solidifying).  
-   - Let dry 10-20 minutes, cover, flip, store in original bags at 4 degrees C.
+1. 1 L cation-adjusted Mueller-Hinton Broth (CA-MHB) medium 
 2. Place Type 45 Ti rotor in the ultracentrifuge and vacuum the chamber at 4 degrees celsius on the same day you set up the culture. Let it be cooled overnight
 3. Add 600 mL of Mueller-Hinton Broth to sterile 1L glass Erlenmeyer flask
 4. Using a micropipette, unload three tubes of *Ps. aeruginosa* working stock and transfer into a 1000 mL flask with 600ml of MHB in it. Grow broth culture at 37 degree C for approximately 8 h with gentle shaking (New Brunswick Scientific Incubator Shaker G25)
