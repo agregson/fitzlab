@@ -1,4 +1,4 @@
-Growing Pseudomonas Aeruginosa for OD measurement and CFU calculations
+Growing Pseudomonas aeruginosa for OD measurement and CFU calculations
 ======================================================================
 
 # Notes
