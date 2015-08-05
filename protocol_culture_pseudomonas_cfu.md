@@ -27,19 +27,28 @@ Growing Pseudomonas aeruginosa for OD measurement and CFU calculations
 
 ## Making Trypticase Soy Agar (TSA) plates
 
-1. Dissovle 20g TSA concentrate in 500 mL ddH<sub>2</sub>O 
-3. Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.
-4. Autoclave at 121 degree C for 15 minutes (IMED autoclave settings: easy cycle, liquid, 15 minutes). 
+1. Dissovle 20g TSA concentrate in 500 mL ddH<sub>2</sub>O in a 1 L Erlenmeyer flask
+2. Place magnetic stir rod at the bottom and place on swirling plate
+3. Mix by magnetic swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.
+4. Autoclave at 121 degree C for 15 minutes (IMED autoclave settings: easy cycle, liquid, 15 minutes). *Note* that the entire autoclave cycle takes about 2 hours. The magnetic rod stays in the vessel during autoclaving. 
 5. At this time, turn waterbath on to 55 degree C.
-6. Remove from autoclave, mix solution by swirling to avoid clump/chunks.  
-7. Place in 55 degree C waterbath, lay out dishes in hood (save bags), pipette 20-25 mL per plate (make sure to swirl solution around to avoid solidifying).  
-8. Let dry 10-20 minutes, cover, flip, store in original bags at 4 degrees C.
+6. Remove from autoclave (you will have about 20-30 minutes to work with it if not in water bath)
+7. Place back on the swirling base to mix the solution to avoid clump/chunks.  
+7. _Alternatively_, Place in 55 degree C waterbath,  (make sure to swirl solution around to avoid solidifying).  
+8. Lay out dishes in hood (save bags). Keep one plate open in the hood during the entire process as a control. 
+9. Pipette 20-25 mL of agar per plate
+8. Stack in groups of ten plates and et dry with agar side down for a minimum of 4 hours (overnight is OK)
+9. After 4 hours or overnight, flip plates so that the lid is down, store in original bags in groups of ten plates at 4 degrees C.
+10. Plates should last at least four months at 4 degree C. 
+11. Prior to using plates, place in hood with lid partially uncovered for about 15 minutes to dry the plates and remove the condensation. 
 
 ## Making MHB
-1. Dissolve 23 g of MHB powder into 1 L ddH<sub>2</sub>O and mix by swirling plate, until powder completely dissolved
+1. Dissolve 23 g of MHB powder into 1 L ddH<sub>2</sub>O in a 3 L Erlenmeyer flask and mix by swirling plate, until powder completely dissolved
 2. Add 10mg MgCl<sub>2</sub> 
 3. Add 20mg CaCl<sub>2</sub>
-3. Autoclave at 121C for 15 minutes.  (IMED autoclave settings: easy cycle, liquid, 15 minutes) 
+4. Ensure mixed and disolved. 
+5. Pour into 1 L bottle with cap as the storage vessel and autoclave in this. 
+3. Autoclave at 121C for 15 minutes.  (IMED autoclave settings: easy cycle, liquid, 15 minutes). *Note* that entire autoclave process takes about two hours
 4. When autoclaving, be careful to not completely seal the caps. 
 4. Store at room temperature. 
 
