@@ -1,7 +1,7 @@
 Growing Pseudomonas Aeruginosa for OD measurement and CFU calculations
 ======================================================================
 
-# Protocol Notes [^1]
+# Notes
 - Pseudomonas aeruginosa is a *Biosaftey Level 2 Pathogen*. Be sure to open cultures in a biosafety hood *ONLY*.
 - Be sure to work in a sterile environment at all times. 
 - The machinery used in this procedure needs to be warmed up and calibrated ahead of time.
@@ -73,4 +73,4 @@ Growing Pseudomonas Aeruginosa for OD measurement and CFU calculations
 8. Wait to incubate the plates until the plates from hour 12 is prepared and dried. All the plates need to go in the 37C incubator at the same time. Read the plates after 12 hours of incubation.
 
 
-[^1]:Created by Created by DC on 2014-09-09; modified by ALG 2014-09-23
+[1]:Created by Created by DC on 2014-09-09; modified by ALG 2014-09-23
