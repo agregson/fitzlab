@@ -68,6 +68,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
    - Add 10mg MgCl<sub>2</sub> 
    - Add 20mg CaCl<sub>2</sub>
    - Autoclave 121 degree C for 15 minutes with the wet cycle after mixing the components. When autoclaving, be careful to not completely seal the caps. 
+   - Store prepared broth at 4C in the dark
 2. Prepare Trypticase Soy Agar (TSA) plates  
    - Dissovle 20 g into 500 mL ddH2O.  
    - Mix by swirling, microwave 3 minutes, mix by swirling, repeat 3-4 times until powder completely dissolved.
