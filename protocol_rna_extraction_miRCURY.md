@@ -7,7 +7,7 @@ Created by DC on 6/26/2015
 Protocol was modified from: RNA-Isolation-biofluids-manual miRCURY 
 
 # Materials: 
-1. Isopropanol HPLC (~300ul per sample)
+1. Isopropanol HPLC (~300 ul per sample)
 2. Eppendorf Minispin Centrifuge
 3. Vortex Genie
 4. 1.5 mL centrifuge tubes 
@@ -39,7 +39,7 @@ Protocol was modified from: RNA-Isolation-biofluids-manual miRCURY
    - Centrifuge for 30 seconds at 11000g (12500 rpm on the MiniSpin)
    - Discard flow-through and place column back into the collection tube
    - If more than 300 ul sample was used, repeat this step until all material is loaded
-- _Optional_ Steps 8-11
+- _Optional_ Steps 9-12
 8. Add 700 ul Wash Solution 2 BF to the microRNA spin column BF
    - Centrifuge for 30 seconds at 11000 g (12500rpm on the MiniSpin)
    - Discard flow-through and place column back into the collection tube.
