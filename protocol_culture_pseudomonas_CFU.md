@@ -14,7 +14,7 @@ Growing Pseudomonas Aeruginosa for OD measurement and CFU calculations
 3. Pseudomonas \#27853 Working Stock; Location 24-231 -80C freezer #2
 4. Trypticase Soy Agar (TSA)  BD Catalog #\B11043 order from ThermoFisher; Location 24-231 room temperature 
 5. Mueller Hinton Broth (MHB) order from Fluka; Location 24-231 room temperature 
-6. MgCl<sub>2</sub>, CaCl<sub>2</sub>; Location bacteria culture room (concentrations?)
+6. MgCl<sub>2</sub>, CaCl<sub>2</sub>; Location dry chemical area
 7. ddH<sub>2</sub>0
 8. 1.5 mL microcentrifuge tubes
 9. 96 well plate; Location 24-231 room temperature
