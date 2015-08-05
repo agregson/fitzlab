@@ -1,24 +1,27 @@
 Protocol: Isolation of Bacterial Membrane Vesicles
 ==================================================
 
-# Protocol Notes:
--   Grow pseudomonas from frozen stock to provide supernatant for membrane vesicles
+# Notes
+-   Pseudomonas aeruginosa is a *Biosafety Level 2 Pathogen*. Be sure to open cultures *ONLY* in a biosafety hood. 
 -   Purpose is to isolate the bacterial membrane vesicles using ultracentrifugation
+-   Grow pseudomonas from frozen stock to provide supernatant for membrane vesicles
 -   Threads of ultracentrifuge buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease. 
 -   Must refrigerate SW 41 Ti rotor buckets at 4 degrees C prior to running.
 -   Have the supernatants and cell culture on ice as they are being prepared or they will continue to grow
+-   Review and be familiar with the IBC safety manual and protocol
 
-# Materials: 
+# Materials
 
 1. Pseudomonas aeruginosa ATCC #27853, Location: Freezer -80 #2, Shelf 4
 2. Gentamicin stock 50 mg/ml, Location: Refrigerator #20
 3. Mueller Hinton Broth (MHB), Location: Refrigerator #20 (prepared)
    - Sigma-Adlrich Mueller Hinton Broth, Cat#70192, Lot#
-   - Store prepared media at 4 C in dark
    - Store dehydrated powder in dry location, Location:
+   - Store prepared media at 4 C in dark
+   - If none available, refer to https://github.com/agregson/fitzlab/blob/protocols/protocol_culture_pseudomonas_cfu.md
 4. Trypticase Soy Agar (TSA) plates, Location: Refrigerator #20, BD Cat#B11043 
    - Are kept at 4 degree C
-   - Need to ensure they are made (see below for directions)
+   - If need to make more, refer to https://github.com/agregson/fitzlab/blob/protocols/protocol_culture_pseudomonas_cfu.md
 4. Flask 1000 mL, clear sterile glass (autoclave before use)
 5. Glass bottles 1000 mL x3 (autoclave before use)
 5. Inoculating loops, sterile plastic, single use
@@ -58,7 +61,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 21. 60mL syringe
 22. 14-guage angiocath
 
-# Methods: 
+# Methods
 
 1. Prepare 1 L cation-adjusted Mueller-Hinton Broth (CA-MHB) medium (containing 1.23 mM calcium chloride dihydrate and 1.03 mM magnesium chloride hexahydrate).
    - Dissolve 23 g of MHB powder into 1 L ddH20
@@ -113,7 +116,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
    - If no colonies form, then membrane vesicle pellet can be considered sterile
 18. Freeze membrane vesicles at -80 degree C in freezer #2, shelf #4.
 
-# References:
+# References
 
 1. Kadurugamuwa1995 - Virulence factors are released from Pseudomonas aeruginosa in association with membrane vesicles during normal growth and exposure to gentamicin: a novel mechanism of enzyme secretion. (isolation protocol using all ultracentrifuge, gel)
 
