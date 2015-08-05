@@ -9,7 +9,7 @@ Modified by __ on ____
 
 - Protocol has been modified from Taqman Reverse Transcription Reagents 
 - Keep all reagents over ice. 
-- Determine concentration of RNA beforehand using the Nanodrop
+- Determine concentration of RNA beforehand using the Nanodrop (see https://github.com/agregson/fitzlab/blob/protocols/protocol_bca_proteinassay.md)
 
 # Materials:
 
