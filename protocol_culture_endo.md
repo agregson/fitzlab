@@ -7,7 +7,7 @@ Modified by __ on ___
 # Notes:
 
 This protocol was modified from:  Sciencell Research Laboratories (catalog # 3000) 
-http://www.sciencellonline.com/site/productsheets/3000.pdf
+http://sciencellonline.com/human-pulmonary-microvascular-endothelial-cells.html
 
 # Biohazard Safety:
 
