@@ -9,6 +9,14 @@ Modified by __ on ___
 This protocol was modified from:  Sciencell Research Laboratories (catalog # 3000) 
 http://www.sciencellonline.com/site/productsheets/3000.pdf
 
+# Biohazard Safety:
+
+- Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or Bacdown disinfectant.
+- Use universal biosafety precautions, wear a lab coat and disposable gloves, and other appropriate PPE.
+- When changing growth medium, add bleach to the discarded media for 10% bleach solution to disinfect the cells and media for at least 10 minutes. Discard and rinse down the drain.
+- While spinning in centrifuge, cover the samples with the "Biohazard" caps to prevent the spread of infectious content in the case of a spill.
+- Dispose trash in the designated “Biohazard” trashcans. Be sure to double bag the pipets before disposal.
+
 # Cell Thawing:
 
 1. Add 5 ml of Dulbecco’s phosphate buffered saline, Ca++  and Mg++ free (DPBS, sciencell catalog # 0303) to T-75 flask 
