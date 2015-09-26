@@ -19,7 +19,7 @@ http://sciencellonline.com/human-pulmonary-microvascular-endothelial-cells.html
 
 # Cell Thawing:
 
-1. Add 5 ml of Dulbecco’s phosphate buffered saline, Ca++  and Mg++ free (DPBS, sciencell catalog # 0303) to T-75 flask 
+1. Add 5 ml of Dulbecco’s phosphate buffered saline, Ca<sup>++</sup>  and Mg<sup>++</sup> free (DPBS, sciencell catalog # 0303) to T-75 flask 
 2. Add 150 µl fibronectin stock solution to flask (Sciencell catalog # 8248)
 3. Leave in incubator overnight 
 4. Prepare medium by adding supplement tube to basal medium. Be sure to use a sterile technique.
