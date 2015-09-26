@@ -7,7 +7,7 @@ Modified by __ on ___
 # Notes:
 
 This protocol was modified from:  Sciencell Research Laboratories (catalog # 3200) 
-http://www.sciencellonline.com/site/productsheets/3200.pdf 
+http://sciencellonline.com/hpaepic.html
 
 # Biohazard Safety:
 
