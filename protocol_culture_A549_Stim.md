@@ -11,35 +11,26 @@ Created by NS on 2015-10-16
 4. Trypsin, Location: refrigerator #6
 5. Incubator (37C/5% CO2)
 6. Growth Medium
-
-    a. Serum-Free Media (SFM), Location: refrigerator #6
-    
+   a. Serum-Free Media (SFM), Location: refrigerator #6
 7. Sterile Cell Scraper
-
-    a. Corning Incorporated, Costar® Sterile Cell Scraper
-    
+   a. Corning Incorporated, Costar® Sterile Cell Scraper
 8. Thermo Scientific, Sorvall Legend XTR Centrifuge
 9. T-75 cm2 Flask
-
-    a. Thermo Scientific, BioLite 75 cm2 Flask Vented, Lot#A5RA5NG113, Cat#130190
-    
+   a. Thermo Scientific, BioLite 75 cm2 Flask Vented, Lot#A5RA5NG113, Cat#130190
 10. T-175 cm2 Flask
-
-    a. Thermo Scientific, BioLite 175 cm2 Flask Vented, Lot#C4WA4PE112, Cat#130191
-    
+   a. Thermo Scientific, BioLite 175 cm2 Flask Vented, Lot#C4WA4PE112, Cat#130191
 11. QIAzol 
-
-    a. Location: Middle shelf, in between the biosafety cabinets
+   a. Location: Middle shelf, in between the biosafety cabinets
 
 # Methods:
 
 ## Day 1:
 
 1. Pipet sufficient volume of HBSS, Trypsin, Serum-Free Media (SFM), and Exosome-Free Media (EFM) into separate 50-ml conical tubes 
-    a. HBSS volume: 5 ml for each T-175 flask; 4 ml for each T-75 flask
-    b. Trypsin volume: 4 ml for each T-175 flask; 3 ml for each T-75 flask
-    c. SFM volume: 12 ml for each T-175 flask; 10 ml for each T-75 flask
-2. Place the tubes into 37C/5% CO2 incubator for at least 30 minutes before use.
+   a. HBSS volume: 5 ml for each T-175 flask; 4 ml for each T-75 flask
+   b. Trypsin volume: 4 ml for each T-175 flask; 3 ml for each T-75 flask
+   c. SFM volume: 12 ml for each T-175 flask; 10 ml for each T-75 flask
+2. Place the tubes into 37C/5% CO2 incubator for at least 30 minutes before use.
 3. Before splitting, make sure that the A549 cell cultures are 80-90% confluent.
 4. Remove the supernatant from each flask.
 5. Add appropriate volume of HBSS into each flask. Roll solution back and forth in the flask for 1 minute to wash out the debris.
@@ -50,7 +41,7 @@ Created by NS on 2015-10-16
 10. Pipet cells from the flask into a conical vial and centrifuge at 1200 rpm at 4C for 7 minutes.
 11. Remove medium from cells being careful not to disturb the cell pellet. Add appropriate volume of warm Serum-Free Media (10 ml SFM for T-175) and mix well.
 12. Add 10-µl of Trypan blue + 10-µl aliquot of cells and mix well. Add 10-µl of the mixture into the Hemocytometer to do a cell count. 
-    a. Total number of cells = (average cell count in large squares) * (dilution factor) * (total cell suspension volume) * (10000) 
+   a. Total number of cells = (average cell count in large squares) * (dilution factor) * (total cell suspension volume) * (10000) 
 13. Equally divide up the cells based on how many flasks are going to be used (one flask for each stimulant, and make sure to have one flask for negative control) 
 14. Place cells into new flasks and add appropriate volume of Serum-Free Media to starve the cells for 24 hours overnight.
 
@@ -58,11 +49,11 @@ Created by NS on 2015-10-16
 
 1. Pipet sufficient Serum-Free Media (SFM) into 50-mL conical tube(s) and place medium in a 37C/5% CO2 incubator for at least 30 minutes before use.
 2. Allow stimulant(s) to thaw in RT and then leave on ice. 
-a. TGF-beta (stored in -20C) volume: 2-ul per ml of medium placed in the flask
-b. IL-1beta (stored in -20C) volume: 2-ul per ml of medium placed in the flask
-c. Other stimulants used: PAMV (stored in -80C) and Exo-AR (stored in -80C)
+   a. TGF-beta (stored in -20C) volume: 2-ul per ml of medium placed in the flask
+   b. IL-1beta (stored in -20C) volume: 2-ul per ml of medium placed in the flask
+   c. Other stimulants used: PAMV (stored in -80C) and Exo-AR (stored in -80C)
 3. Create growth medium solution(s) by adding appropriate amount of each stimulant to an appropriate volume of Serum-Free Media.
-a. Example: For a T-75 flask, create a solution with 10-ml SFM and 20-µl of TGF-beta.
+   a. Example: For a T-75 flask, create a solution with 10-ml SFM and 20-µl of TGF-beta.
 4. Remove the supernatant from each flask, and add each prepared solution(s) to designated flasks.
 5. For the flask designated as the negative control, do not add any stimulants, only add an appropriate volume of Serum-Free Media.
 
