@@ -21,6 +21,8 @@ Created by NS on 2015-10-16
    a. Thermo Scientific, BioLite 175 cm2 Flask Vented, Lot#C4WA4PE112, Cat#130191
 11. QIAzol 
    a. Location: Middle shelf, in between the biosafety cabinets
+12. TNF-alpha human at 5ng/mcL
+   a. Location: Freezer #3, -20C, box #7
 
 # Methods:
 
@@ -51,11 +53,14 @@ Created by NS on 2015-10-16
 2. Allow stimulant(s) to thaw in RT and then leave on ice. 
    a. TGF-beta (stored in -20C) volume: 2-ul per ml of medium placed in the flask
    b. IL-1beta (stored in -20C) volume: 2-ul per ml of medium placed in the flask
+   c. TNF-alpha final concentration 10ng/mL
    c. Other stimulants used: PAMV (stored in -80C) and Exo-AR (stored in -80C)
 3. Create growth medium solution(s) by adding appropriate amount of each stimulant to an appropriate volume of Serum-Free Media.
    a. Example: For a T-75 flask, create a solution with 10-ml SFM and 20-µl of TGF-beta.
+   b. Example: 6-well plate, 2mL media per well, 12 mL media for three well experiment + 24 mcL TNF-alpha
 4. Remove the supernatant from each flask, and add each prepared solution(s) to designated flasks.
 5. For the flask designated as the negative control, do not add any stimulants, only add an appropriate volume of Serum-Free Media.
+6. Incubate in incubator 37C for four hours.
 
 ## Day 4:
 
