@@ -73,5 +73,5 @@ Created by NS on 2015-10-16
 4. Follow steps (5) - (9) from Day 1 to remove the cells from each flask. 
 5. Pipet cells from each flask into separate conical tube(s) and centrifuge at 1200 rpm at 4C for 7 minutes.
 6. Remove medium from cells being careful not to disturb the cell pellet.
-7. Suspend the cell pellet in each conical tube in 700-µl of QIAzol and mix well. 
+7. Suspend the cell pellet in each conical tube in 700-µl of QIAzol (if using columns) or 1 mL of TRIzol (if not using column extraction for RNA) and mix well. 
 8. Transfer the solution into separately labeled 1.5 ml microcentrifuge tubes for storage at -80C or for RNA extraction (refer to RNeasy Mini Kit protocol).
