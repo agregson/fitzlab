@@ -1,11 +1,11 @@
 Protocol: Care and Maintenance of Ultracentrifuge and Rotors
 ==================================================
 
-# Protocol Notes:[^1]
+# Notes
 -   Proper use and maintenance of the ultracentrifuge and rotors 
 -   Refer to the manuals for further details. All are available both online (see References) and also in the folder by the ultracentrifuge itself.
 
-# Materials: 
+# Materials
 
 1.  Beckman Type 45 Ti rotor, serial\# 11U 4663 (fixed angle rotor, made in 2011)
 
@@ -28,7 +28,7 @@ Protocol: Care and Maintenance of Ultracentrifuge and Rotors
 5.  Beckman Optima L-70k Ultracentrifuge
 
 
-# Methods:
+# Methods
 
 ## Maintenance:
 
@@ -76,7 +76,7 @@ Protocol: Care and Maintenance of Ultracentrifuge and Rotors
 3.  Ethanol 70% or hydrogen peroxide 6% can be used on all rotor components including those made of plastic.
     -  Bleach will cause discoloration, prefer not use.
 
-# References:
+# References
 
 1.  File ultracentrifugeUpdate.pdf This is hanging on the wall by the ultracentrifuge. 
 
@@ -88,4 +88,4 @@ Protocol: Care and Maintenance of Ultracentrifuge and Rotors
 
 5.  Beckman Coulter Rotors and Tubes [Instructions for Use](https://github.com/agregson/fitzlab/blob/protocols/RotorsTubesInstructionsBeckman2014.pdf)
 
-[^1]: Author: Aric Gregson 2014-08-01
+[1]: Author: Aric Gregson 2014-08-01
