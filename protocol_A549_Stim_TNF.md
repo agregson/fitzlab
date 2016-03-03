@@ -71,3 +71,22 @@ Created by AG on 2016-03-01
 3. Mix by gently inverting 10 times
 
 ### RNA Wash
+1. Incubate the samples for 10 minutes at RT
+2. Centrifuge at 12,000xg for 10 minutest at 10C
+3. Discard supernatant
+4. Wash RNA pellet *twice* with 1 mL of 75% EtOH / 25% DPEC (stock see above)
+   - Briefly vortex or flick to tube to mix
+   - Centrifuge at 12,000xg for 5 minutes at 4C
+   - Remove residuals of wash with pipette carefully, trying not to disturb the pellet
+   - Samples can be stored for up to one year at -20C in this mixture
+5. Pipette off any excess EtOH, carelly so as not to disturb the pellet, which should be visible at the side of the tube
+6. Centrifuge again without adding any further wash solution at 12,000xg for 5 minutes at 4C
+7. Remove any excess wash buffer. 
+   - If not enough EtOH evaporates, this will prevent the RNA from going into solution moving forward
+8. Air dry the samples by leaving the cap off on the bench for 5-10 minutes at RT
+9. Resuspend in 30 mcL of DPEC (RNAse-free water) by pipetting up and down or heating for 10 minutes at 55-60C 
+9. Use Nanodrop (RNA settings) to calculate RNA concentrations
+   - See separate protocol
+10. Store samples at -80C
+
+### cDNA or qPCR
