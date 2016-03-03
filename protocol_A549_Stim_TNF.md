@@ -54,3 +54,20 @@ Created by AG on 2016-03-01
    8. Remove the TRIzol mixture and place each well into a separate 5 mL polystyrene tube and cap
    9. Place TRIzol tubes into the -80C freezer for later RNA extraction or proceed immediately to RNA extraction. 
    10. *Alternatively* if processing RNA with a kit, then add only 700 mL of TRIzol or QIAzol to each well
+
+## RNA Extraction - Slav's Method
+### Phase Separation
+1. Incubate specimens for 5 minutes at RT if not already done (thaw if previously frozen)
+2. Add 200 mcL of chloroform for each 1 mL of TRIzol Reagent 
+3. Cap samples and *shake* vigorously for 15 seconds (do not vortex)
+4. Incubate for 3 minutes at RT
+5. Centrifuge samples at 12,000xg for 15 minutes at 4C 
+   - Sorval Biofuge stratos centrifuge with Heraeus 3332 rotor
+6. Mixture will separate into a lower red, phenol-chloroform phase, an interphase, and a colorless upper aqueous phase
+
+### RNA Precipitation
+1. Transfer the aqueous phase into a 1.5 mL centrifuge tube, care not to get any interface
+2. Add 500 mcL of isopropyl alcohol (per 1 mL of TRIzol Reagent used initially) to precipitate RNA
+3. Mix by gently inverting 10 times
+
+### RNA Wash
