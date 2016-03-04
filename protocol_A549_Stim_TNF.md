@@ -18,14 +18,35 @@ Created by AG on 2016-03-01
 1. 15 mL polystyrene conical tubes
 2. 50 mL polystyrene conical tubes
 3. 5 mL polystyrene tubes with caps
+4. 1.5 mL microcentrifuge tubes with caps
+5. 0.2 mL PCR tubes, individual, located above thermocyclers
+6. MicroAmp Fast Reaction Tube Strips, 8 tubes each, above working bench
 5. Incubator (37C/5% CO2)
 6. Growth Medium
    - Serum-Free Media (SFM), Location: refrigerator #6
    - Exosome-Free Media (EFM), Location: refrigerator #6
-11. QIAzol 
+11. QIAzol or TRIzol Reagent (Equivalent for this)
    - Location: Middle shelf, in between the biosafety cabinets, or in 4C
 12. TNF-alpha human at 5 ng/mcL
    - Location: Freezer #3, -20C, box #7
+1. Chloroform, located under fume hood
+2. Isopropyl alcohol, located under fume hood or within it
+3. 100% Ethanol, flame proof cabinet next to fume hood, use and label your own bottle, do not use someone elses
+3. DPEC water, your own, don't use someone elses, label & date your's
+4. RNase-free water (alternative to DPEC)
+5. Sorval Biofuge stratos centrifuge
+6. Heraeus 3332 rotor for Sorval Biofuge stratos
+7. Nanodrop
+1. BioRad T100 Thermocycler
+2. DNA Engine Gradient Cycler (alternative to BioRad)
+3. Deoxyribonuclease I Amplification Grade
+   - 10X DNase I Buffer as well
+   - Invitrogen Cat # 18068-015
+   - Location: Freezer #3, -20C
+4. cDNA kit 
+   - Applied Biosystems Cat# 4304134
+   - 10X buffer, MgCl2 (25 mM), deoxyNTP mixture, random hexamers, RNase inhibitor, MultiScribe Reverse transcriptase
+   - Location: Freezer #3, -20C
 
 # Methods:
 
@@ -55,7 +76,7 @@ Created by AG on 2016-03-01
    9. Place TRIzol tubes into the -80C freezer for later RNA extraction or proceed immediately to RNA extraction. 
    10. *Alternatively* if processing RNA with a kit, then add only 700 mL of TRIzol or QIAzol to each well
 
-## RNA Extraction - Slav's Method
+## RNA Extraction - TRIzol/Manual Method
 ### Phase Separation
 1. Incubate specimens for 5 minutes at RT if not already done (thaw if previously frozen)
 2. Add 200 mcL of chloroform for each 1 mL of TRIzol Reagent 
@@ -71,22 +92,75 @@ Created by AG on 2016-03-01
 3. Mix by gently inverting 10 times
 
 ### RNA Wash
-1. Incubate the samples for 10 minutes at RT
+1. Incubate the samples for 10 minutes at RT with the isopropyl alcohol
 2. Centrifuge at 12,000xg for 10 minutest at 10C
 3. Discard supernatant
 4. Wash RNA pellet *twice* with 1 mL of 75% EtOH / 25% DPEC (stock see above)
    - Briefly vortex or flick to tube to mix
    - Centrifuge at 12,000xg for 5 minutes at 4C
-   - Remove residuals of wash with pipette carefully, trying not to disturb the pellet
+   - Remove residuals of wash with pipette carefully, trying not to disturb the pellet (don't remove all the fluid)
    - Samples can be stored for up to one year at -20C in this mixture
-5. Pipette off any excess EtOH, carelly so as not to disturb the pellet, which should be visible at the side of the tube
 6. Centrifuge again without adding any further wash solution at 12,000xg for 5 minutes at 4C
-7. Remove any excess wash buffer. 
+7. Remove any excess wash buffer with smaller pipette tip 
    - If not enough EtOH evaporates, this will prevent the RNA from going into solution moving forward
 8. Air dry the samples by leaving the cap off on the bench for 5-10 minutes at RT
-9. Resuspend in 30 mcL of DPEC (RNAse-free water) by pipetting up and down or heating for 10 minutes at 55-60C 
+   - Mostly what is left here is EtOH, it should all evaporate within 10 minutes
+9. Resuspend in 20-30 mcL of DPEC (or RNAse-free water) by pipetting up and down or heating for 10 minutes at 55-60C 
 9. Use Nanodrop (RNA settings) to calculate RNA concentrations
    - See separate protocol
 10. Store samples at -80C
 
-### cDNA or qPCR
+## DNase Treatment of Total RNA
+1. Turn on the heating block to high setting at 65C 
+   - This is the usual setting for the one at the end of our bench
+2. Make a Master Mix:
+   - 2 mcL 10X DNAse I Buffer
+   - 2 mcL DNase I, Amplification Grade, 1 U/mL concentration
+3. Each sample will go into a 1.5 mL microcentrifuge tube 
+4. Place 4 mcL of the Master Mix into each sample tube
+5. Place calculated volume of each RNA sample into the appropriate sample tube
+   - Use Slav's calculator spreadsheet to calculate volume of sample needed to yield 1 mcg of RNA for each sample
+6. Place calculated volume of DPEC / RNase-free water into the appropriate sample tube
+   - Use Slav's calculator (as above) to calculate the volume of water for each tube
+7. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
+   - Do NOT vortex samples, DNAse will be damaged
+8. Incubate tubes for 15 minutes at RT. 
+   - Do not exceed 15 minutes as the RNA will begin to hydrolyze
+9. Add 2 mcL of EDTA (25 mM concentration) to each tube to inactivate the DNase
+10. Heat for 10 minutes at 65C in the heating block that is already warm
+11. Samples are ready for cDNA preparation
+   - Samples seem to be at 18 mcL (perhaps need to spin after the heatblock?)
+ 
+## cDNA Synthesis
+
+   - cDNA synthesis from total RNA is the first step in TaqMan Gene Expression Quantification assays.
+   - Kit # 4304134 Applied Biosystems
+   
+1. Prepare reverse transcriptase reaction mix. 
+   - Best to make a *Master Mix* of N + 1 samples.
+
+| Component | Volume in mcL per Sample | Final Value per Sample |
+|-----------|--------------------------|----------------------|
+|25 mM MgCl2 | 22 | 5.5 mM|
+|deoxyNTPs Mixture | 20 | 500 mcM (per dNTP)|
+|DPEC (RNase-free water) | 18.5 mcL | 0.25-2.0 mcg |
+|10X Buffer | 10 | 1X|
+|Random Hexamers | 5 | 2.5 mcM |
+|MultiScribe Reverse Transcriptase (50 U/mcL)| 2.5 | 1.25 U/mcL |
+|RNase Inhibitor | 2 | 0.4 U/mcL |
+
+2. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
+3. Each sample goes into a 0.2 mL individual PCR tube or into the PCR strips (8 tubes each, MicroAmp Fast Reaction Tubes)
+3. Place 80 mcL of the above *Master Mix* into each PCR tube.
+4. Place 20 mcL (entire RNA sample after DNase step above) of each RNA sample into its own PCR
+   - Total volume in each PCR tube will be 100 mcL (there about)
+5. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
+6. Run the thermal cycler
+   - BioRad T100 Thermocycler
+     - Select RT-CDNA program, 100 mcL, Run
+   - DNA Engine Gradient Cycler
+     - Run-> Proceed; RT-> Proceed; change to block 'B'-> Proceed; Tubes-> Proceed; Volume 100-> Proceed; Close top & tighten down with blue knob; Heated lid-> Proceed
+   - Cycle should take about 48 minutes. 
+7. cDNA can be used immediately for PCR amplification 
+8. Alternatively, can be stored at -20C for later use
+   - Place inside a larger 1.5 mL centrifuge tube and label appropriately
