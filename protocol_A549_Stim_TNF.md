@@ -59,22 +59,22 @@ Created by AG on 2016-03-01
    3. Incubate overnight at 37C/5% CO2
 
 ## Day 2:
-1. Using 6-well culture plates 
-   1. Prepare TNF-alpha stimulation media
-      1.  Desired final TNF-alpha concentration of 10 ng/mL. Need 4 mcL of the TNF-alpha (5 ng/mcL stock concentration) per well (2 mL of media/well)
-      2. For _each_ 6-well _plate_ combine to make a master mix:
-	    -  12 mcL TNF-alpha stock, and 
-	    -  6 mL serum-free media (SFM)
-	  
-   2. Add 2 mL of stimulation media to each _stimulation_ well
-   3. Add 2 mL of serum-free media (SFM) to each _control_ well
-   4. _Incubate_ at 37C/5% CO2 for _4 hours_
-   5. Remove supernatant for exosome isolation
-   6. Add 1 mL of TRIzol/QIAzol to each well and incubate at RT for five minutes
-   7. Gently wash about the TRIzol in each well
-   8. Remove the TRIzol mixture and place each well into a separate 5 mL polystyrene tube and cap
-   9. Place TRIzol tubes into the -80C freezer for later RNA extraction or proceed immediately to RNA extraction. 
-   10. *Alternatively* if processing RNA with a kit, then add only 700 mL of TRIzol or QIAzol to each well
+   - Using 6-well culture plates 
+   
+1. Prepare TNF-alpha Stimulation Media
+   - Desired final TNF-alpha concentration of 10 ng/mL. Need 4 mcL of the TNF-alpha (5 ng/mcL stock concentration) per well (2 mL of media/well)
+   - For _each_ 6-well _plate_ combine to make a Master Mix:
+      1. 12 mcL TNF-alpha stock, and 
+      2. 6 mL serum-free media (SFM)
+2. Add 2 mL of Stimulation Media to each _stimulation_ well
+3. Add 2 mL of serum-free media (SFM) to each _control_ well
+4. _Incubate_ at 37C/5% CO2 for _4 hours_
+5. Remove supernatant for exosome isolation
+6. Add 1 mL of TRIzol/QIAzol to each well and incubate at RT for five minutes
+7. Gently wash about the TRIzol in each well
+8. Remove the TRIzol mixture and place each well into a separate 5 mL polystyrene tube and cap
+9. Place TRIzol tubes into the -80C freezer for later RNA extraction or proceed immediately to RNA extraction. 
+10. *Alternatively* if processing RNA with a kit, then add only 700 mL of TRIzol or QIAzol to each well
 
 ## RNA Extraction - TRIzol/Manual Method
 ### Phase Separation
