@@ -6,6 +6,13 @@ Created by DC on 6/26/2015
 # Notes:
 Protocol was modified from: RNA-Isolation-biofluids-manual miRCURY 
 
+### Biohazard Safety
+
+-    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or BacDown disinfectant. 
+-    Use universal biosafety precautions, wear a barrier resistant lab coat, disposable gloves, and other appropriate PPE.
+-    When disposing BAL fluids, add 10% bleach solution to the discarded fluid to disinfect the cells and fluid for at least 10 minutes ("10 for 10"), then discard and rinse down the drain. 
+-    Dispose of trash in the designated "Biohazard" trash cans. Be sure to double bag the pipets before disposal. 
+
 # Materials: 
 1. Isopropanol HPLC (~300 ul per sample)
 2. Eppendorf Minispin Centrifuge
