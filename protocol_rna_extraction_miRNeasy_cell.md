@@ -6,6 +6,13 @@ Created by DC on 5/15/15
 # Notes:
 Protocol was modified from: miRNeasy Micro Handbook 
 
+### Biohazard Safety
+
+-    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or BacDown disinfectant. 
+-    Use universal biosafety precautions, wear a barrier resistant lab coat, disposable gloves, and other appropriate PPE.
+-    When disposing BAL fluids, add 10% bleach solution to the discarded fluid to disinfect the cells and fluid for at least 10 minutes ("10 for 10"), then discard and rinse down the drain. 
+-    Dispose of trash in the designated "Biohazard" trash cans. Be sure to double bag the pipets before disposal. 
+
 # Materials: 
 1. Chloroform (approximately 1 mL)
 2. Ethanol (80%, 100%). Be sure to prepare 80% EtOH with DEPC treated water
