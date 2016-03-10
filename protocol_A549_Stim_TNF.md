@@ -26,7 +26,7 @@ Created by AG on 2016-03-01
    - Serum-Free Media (SFM), Location: refrigerator #6
    - Exosome-Free Media (EFM), Location: refrigerator #6
 11. QIAzol or TRIzol Reagent (Equivalent for this)
-   - Location: Middle shelf, in between the biosafety cabinets, or in 4C
+   - Location: Middle shelf, in between the biosafety cabinets, or in 4C Fridge #6 & #7
 12. TNF-alpha human at 5 ng/mcL
    - Location: Freezer #3, -20C, box #7
 1. Chloroform, located under fume hood
@@ -34,6 +34,7 @@ Created by AG on 2016-03-01
 3. 100% Ethanol, flame proof cabinet next to fume hood, use and label your own bottle, do not use someone elses
 3. DPEC water, your own, don't use someone elses, label & date your's
 4. RNase-free water (alternative to DPEC)
+5. RNA Wash Solution (75% EtOH / 25% DPEC)
 5. Sorval Biofuge stratos centrifuge
 6. Heraeus 3332 rotor for Sorval Biofuge stratos
 7. Nanodrop
@@ -88,8 +89,10 @@ Created by AG on 2016-03-01
 
 ### RNA Precipitation
 1. Transfer the aqueous phase into a 1.5 mL centrifuge tube, care not to get any interface
+   - cloudy portion is just around edges, so place pipet in center to remove aqueous phase
 2. Add 500 mcL of isopropyl alcohol (per 1 mL of TRIzol Reagent used initially) to precipitate RNA
 3. Mix by gently inverting 10 times
+4. Apparently can be frozen @ -20C at this stage
 
 ### RNA Wash
 1. Incubate the samples for 10 minutes at RT with the isopropyl alcohol
@@ -97,7 +100,7 @@ Created by AG on 2016-03-01
 3. Discard supernatant
 4. Wash RNA pellet *twice* with 1 mL of 75% EtOH / 25% DPEC (stock see above)
    - Briefly vortex or flick to tube to mix
-   - Centrifuge at 12,000xg for 5 minutes at 4C
+   - Centrifuge at 10,000xg for 5 minutes at 4C
    - Remove residuals of wash with pipette carefully, trying not to disturb the pellet (don't remove all the fluid)
    - Samples can be stored for up to one year at -20C in this mixture
 6. Centrifuge again without adding any further wash solution at 12,000xg for 5 minutes at 4C
