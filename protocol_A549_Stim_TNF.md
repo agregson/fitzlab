@@ -35,6 +35,7 @@ Created by AG on 2016-03-01
 3. DPEC water, your own, don't use someone elses, label & date your's
 4. RNase-free water (alternative to DPEC)
 5. RNA Wash Solution (75% EtOH / 25% DPEC)
+   - 30 mL of EtOH plus 10 mL of DPEC
 5. Sorval Biofuge stratos centrifuge
 6. Heraeus 3332 rotor for Sorval Biofuge stratos
 7. Nanodrop
@@ -71,7 +72,7 @@ Created by AG on 2016-03-01
 3. Add 2 mL of serum-free media (SFM) to each _control_ well
 4. _Incubate_ at 37C/5% CO2 for _4 hours_
 5. Remove supernatant for exosome isolation
-6. Add 1 mL of TRIzol/QIAzol to each well and incubate at RT for five minutes
+6. Add 1 mL of TRIzol/QIAzol to each well and incubate for 5 minutes at RT
 7. Gently wash about the TRIzol in each well
 8. Remove the TRIzol mixture and place each well into a separate 5 mL polystyrene tube and cap
 9. Place TRIzol tubes into the -80C freezer for later RNA extraction or proceed immediately to RNA extraction. 
@@ -84,12 +85,13 @@ Created by AG on 2016-03-01
 3. Cap samples and *shake* vigorously for 15 seconds (do not vortex)
 4. Incubate for 3 minutes at RT
 5. Centrifuge samples at 12,000xg for 15 minutes at 4C 
-   - Sorval Biofuge stratos centrifuge with Heraeus 3332 rotor
+   - Sorval Biofuge stratos centrifuge with Heraeus 3332 rotor (24 samples max using 1.5 mL tubes)
 6. Mixture will separate into a lower red, phenol-chloroform phase, an interphase, and a colorless upper aqueous phase
 
 ### RNA Precipitation
 1. Transfer the aqueous phase into a 1.5 mL centrifuge tube, care not to get any interface
    - cloudy portion is just around edges, so place pipet in center to remove aqueous phase
+   - Set pipette to 300 mcL will get about 2 times full
 2. Add 500 mcL of isopropyl alcohol (per 1 mL of TRIzol Reagent used initially) to precipitate RNA
 3. Mix by gently inverting 10 times
 4. Apparently can be frozen @ -20C at this stage
@@ -101,15 +103,19 @@ Created by AG on 2016-03-01
 4. Wash RNA pellet *twice* with 1 mL of 75% EtOH / 25% DPEC (stock see above)
    - Briefly vortex or flick to tube to mix
    - Centrifuge at 10,000xg for 5 minutes at 4C
-   - Remove residuals of wash with pipette carefully, trying not to disturb the pellet (don't remove all the fluid)
+   - Place hinge up in the centrifuge always so know where pellete is
+   - Remove residuals of wash with pipette carefully, trying not to disturb the pellet (don't remove all the fluid), only about 1000 mcL
    - Samples can be stored for up to one year at -20C in this mixture
 6. Centrifuge again without adding any further wash solution at 12,000xg for 5 minutes at 4C
-7. Remove any excess wash buffer with smaller pipette tip 
+7. Remove any excess wash buffer with smaller 200 mcL pipette tip 
    - If not enough EtOH evaporates, this will prevent the RNA from going into solution moving forward
+   - Bring it to nearly dry with the pipette, careful to not suck up the pellet
 8. Air dry the samples by leaving the cap off on the bench for 5-10 minutes at RT
    - Mostly what is left here is EtOH, it should all evaporate within 10 minutes
-9. Resuspend in 20-30 mcL of DPEC (or RNAse-free water) by pipetting up and down or heating for 10 minutes at 55-60C 
+   - Can do in culture hood if like
+9. Resuspend in 20 mcL of DPEC (or RNAse-free water) by pipetting up and down and then heating for 10 minutes at 55-60C 
 9. Use Nanodrop (RNA settings) to calculate RNA concentrations
+   - Use 1.5 mcL of sample; print report out for notebook
    - See separate protocol
 10. Store samples at -80C
 
