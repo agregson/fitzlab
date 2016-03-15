@@ -64,9 +64,9 @@ Created by AG on 2016-03-01
    - Using 6-well culture plates 
    
 1. Prepare TNF-alpha Stimulation Media
-   - Desired final TNF-alpha concentration of 10 ng/mL. Need 4 mcL of the TNF-alpha (5 ng/mcL stock concentration) per well (2 mL of media/well)
+   - Desired final TNF-alpha concentrations of 5--20 ng/mL per well. The TNF-alpha is at 5 ng/mcL stock concentration.
    - For _each_ 6-well _plate_ combine to make a Master Mix:
-      1. 12 mcL TNF-alpha stock, and 
+      1. 12 mcL (10 ng/mL final); 18 mcL (15 ng/mL final); 24 mcL (20 ng/mL final) TNF-alpha stock, and 
       2. 6 mL serum-free media (SFM)
 2. Add 2 mL of Stimulation Media to each _stimulation_ well
 3. Add 2 mL of serum-free media (SFM) to each _control_ well
