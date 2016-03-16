@@ -122,7 +122,8 @@ Created by AG on 2016-03-01
 ## DNase Treatment of Total RNA
 1. Turn on the heating block to high setting at 65C 
    - This is the usual setting for the one at the end of our bench
-2. Make a Master Mix:
+2. Thaw all reagents for this step and the cDNA step at this time
+2. Make a Master Mix with the following volumes for each sample:
    - 2 mcL 10X DNAse I Buffer
    - 2 mcL DNase I, Amplification Grade, 1 U/mL concentration
 3. Each sample will go into a 1.5 mL microcentrifuge tube 
@@ -166,7 +167,7 @@ Created by AG on 2016-03-01
 5. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
 6. Run the thermal cycler
    - BioRad T100 Thermocycler
-     - Select RT-CDNA program, 100 mcL, Run
+     - Select RT-CDNA program, 100 mcL, Run, close lid
    - DNA Engine Gradient Cycler
      - Run-> Proceed; RT-> Proceed; change to block 'B'-> Proceed; Tubes-> Proceed; Volume 100-> Proceed; Close top & tighten down with blue knob; Heated lid-> Proceed
    - Cycle should take about 48 minutes. 
