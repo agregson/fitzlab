@@ -43,6 +43,7 @@ Created by AG on 2016-03-01
    - for cDNA synthesis
 3. BioRad 200 mcL PCR tubes with domed lids
    - Above thermocycler, also in D42 (Slav's bench)
+   - There are strips and plates, flat and domed lids
 2. DNA Engine Gradient Cycler (alternative to BioRad)
 3. Deoxyribonuclease I Amplification Grade
    - 10X DNase I Buffer as well
@@ -52,6 +53,9 @@ Created by AG on 2016-03-01
    - Applied Biosystems Cat# 4304134
    - 10X buffer, MgCl2 (25 mM), deoxyNTP mixture, random hexamers, RNase inhibitor, MultiScribe Reverse transcriptase
    - Location: Freezer #3, -20C
+5. MicroAmp qPCR tubes with flat lids
+   - Above benches and above qPCR machine
+   - Come in strips of 8 and a plate of 96 wells
 
 # Methods:
 
@@ -149,6 +153,7 @@ Created by AG on 2016-03-01
    - cDNA synthesis from total RNA is the first step in TaqMan Gene Expression Quantification assays.
    - Kit # 4304134 Applied Biosystems
    - All tubes are BioRad
+      - Can use domed or flat tops, need to ensure proper setting on machine
    
 1. Prepare reverse transcriptase reaction mix. 
    - Best to make a *Master Mix* of N + 1 samples.
@@ -165,6 +170,7 @@ Created by AG on 2016-03-01
 
 2. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
 3. Each sample goes into a 0.2 mL tubes in PCR strips (8 tubes each, BioRad) with domed cap.
+   - Domed is standard. Can use flat top, just need to turn over the plate in the machine to match.
 3. Place 80 mcL of the above *Master Mix* into each PCR tube.
 4. Place 20 mcL (entire RNA sample after DNase step above) of each RNA sample into its own PCR
    - Total volume in each PCR tube will be 100 mcL (there about)
@@ -176,32 +182,74 @@ Created by AG on 2016-03-01
      - Run-> Proceed; RT-> Proceed; change to block 'B'-> Proceed; Tubes-> Proceed; Volume 100-> Proceed; Close top & tighten down with blue knob; Heated lid-> Proceed
    - Cycle should take about 48 minutes. 
 7. cDNA can be used immediately for PCR amplification 
-8. Alternatively, can be stored at -20C for later use
-   - Place inside a larger 1.5 mL centrifuge tube and label appropriately
+8. Storage
+   - Transfer to a larger 1.5 mL centrifuge tube and label appropriately
+   - Store in Freezer #3 -20C in appropriately labeled box
    
 ## qPCR
 
-   - All tubes are MicroAmp
+   - All tubes are MicroAmp fast reaction tubes
    - PDAR = Pre-Developed Assay Reagent
    - Below is for PDARs only (i.e., not primer/probe sets - see Slav protocol for this if needed)
    - Use between 10--100 ng/reaction of cDNA
+   - Reagents should be kept in the dark!
+   - Endogenous controls available are 18S, GAPDH, Beta Actin
 
 1. Make a "Master Mix" of all reagents _without_ cDNA
    - will need a different Master Mix for each Target PDAR (i.e., IL-8 is one Master Mix, CXCL5 is another)
+   - make enough for N + 1 as will need a Negative control (no cDNA)
    
-| Component | Volume in mcL per Sample |
-|-----------|--------------------------|
-| 20 X Target Mix (i.e., IL-8, etc) | 1.0 |
-| 20 X Control Mix (18S or GAPDH) | 1.0 |
-| RNase-free Water | 6.0 |
-| 2 x TaqMan Universal Master Mix | 10.0 |
+| Component | Volume in mcL per Sample | Location | 
+|-----------|--------------------------|------|
+| 20 X Target Mix (i.e., IL-8, etc) | 1.0 | Freezer #5 -20C, see locator on outside |
+| 20 X Control Mix (18S or GAPDH) | 1.0 | Freezer #1 -20C, aliquoted |
+| RNase-free Water | 6.0 | DPEC is fine |
+| TaqMan Gene Expression Master Mix | 10.0 | Fridge #1 4C |
 
 2. Aliquot 18 mcL of Master Mix into each sample tube 
    - MicroAmp 100 mcL PCR tubes with flat MicroAmp tops
-   - Place tubes in MicroAmp Optical 96-well plate
-3. Add 2 mcL of sample cDNA into respective PCR tubes
-4. Cover the plate with MicroAmp Optical Adhesive Cover, seal throughout
+   - Can use a MicroAmp Optical 96-well plate instead (if more than half full)
+   - If using srips, be sure to have empty wells so know which way putting in machine
+   - Do _not_ write on the tubes or the plate!
+   - Need to ensure appropriate sled is in the machine (kept in top drawer to right of the machine)
+3. Add 2 mcL of sample cDNA into respective PCR tubes (excepting negative control)
+4. If using the plate, cover the plate with MicroAmp Optical Adhesive Cover, seal throughout
 5. Vortex gently
-6. Spin at 3500 RPM for 10 seconds to eliminate bubbles using the Sorval centrifuge
+6. Spin at 3500 RPM for 10 seconds to eliminate bubbles using the Jouan CR 412 centrifuge
 7. Set-up Machine Program
-
+   - Open StepOnePlus Software V2.0
+   - Choose Advanced Set-up
+   - Enter Experiment Name (something useful with the date of the original experiment)
+   - Select StepOne Instrument (96 wells)
+   - Select Quantification: Comparative C_t
+   - Select Taqman Reagents
+   - Select Standard, 2 hour run (you will be disappointed if you don't!)
+   - Choose Plate Set Up
+      - Add New Target
+      - Enter target name and choose color
+         - 18S = VIC
+         - CXCL8 = FAM
+      - Enter Sample names (need at least two names at this point, can add more later)
+   - Choose Assign Targets and Samples
+      - Select wells using and label them with the Target and Sample names
+      - Select wells and choose the Endogenous control (may need to move the second column over to see this)
+      - Select a control well (this is why you need at least two sample names)
+   - Ensure ROX is selected as the Passive Reference
+   - Choose Run Method and ensure conditions match those in table below
+   - Choose Run
+   - Will be prompted to save the experiment, please save to Aric's folder
+   - Ensure the base rises up on the machine and the timer starts before walking away
+   - Usually takes ~75 minutes
+8. Analysis with software
+   - Choose Analyze
+   - Adjust the baseline, especially for highly amplified 18S
+      - From the Graph Type menu dropdown, select Linear
+      - Select Baseline checkbox to show the start and end cycle
+      - Virfy that the baseline is set correctly: the end cycle should be set a few cycles before the cycle number where significant fluorescent signal is detected. 
+   - Adjust threshold, should be set in the exponenetial phase of the amplification curve
+      - From the Graph Type menu dropdown menu, select Log
+      - From the Target dropdown menu, select 18S
+      - Select Threshold checkbox to show threshold
+      - Verify that threshold is set correctly
+   - Click Analyze
+   - Click Export
