@@ -39,7 +39,10 @@ Created by AG on 2016-03-01
 5. Sorval Biofuge stratos centrifuge
 6. Heraeus 3332 rotor for Sorval Biofuge stratos
 7. Nanodrop
-1. BioRad T100 Thermocycler
+1. BioRad T100 Thermocycler 
+   - for cDNA synthesis
+3. BioRad 200 mcL PCR tubes with domed lids
+   - Above thermocycler, also in D42 (Slav's bench)
 2. DNA Engine Gradient Cycler (alternative to BioRad)
 3. Deoxyribonuclease I Amplification Grade
    - 10X DNase I Buffer as well
@@ -145,6 +148,7 @@ Created by AG on 2016-03-01
 
    - cDNA synthesis from total RNA is the first step in TaqMan Gene Expression Quantification assays.
    - Kit # 4304134 Applied Biosystems
+   - All tubes are BioRad
    
 1. Prepare reverse transcriptase reaction mix. 
    - Best to make a *Master Mix* of N + 1 samples.
@@ -160,7 +164,7 @@ Created by AG on 2016-03-01
 |RNase Inhibitor | 2 | 0.4 U/mcL |
 
 2. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
-3. Each sample goes into a 0.2 mL individual PCR tube or into the PCR strips (8 tubes each, MicroAmp Fast Reaction Tubes)
+3. Each sample goes into a 0.2 mL tubes in PCR strips (8 tubes each, BioRad) with domed cap.
 3. Place 80 mcL of the above *Master Mix* into each PCR tube.
 4. Place 20 mcL (entire RNA sample after DNase step above) of each RNA sample into its own PCR
    - Total volume in each PCR tube will be 100 mcL (there about)
@@ -174,3 +178,30 @@ Created by AG on 2016-03-01
 7. cDNA can be used immediately for PCR amplification 
 8. Alternatively, can be stored at -20C for later use
    - Place inside a larger 1.5 mL centrifuge tube and label appropriately
+   
+## qPCR
+
+   - All tubes are MicroAmp
+   - PDAR = Pre-Developed Assay Reagent
+   - Below is for PDARs only (i.e., not primer/probe sets - see Slav protocol for this if needed)
+   - Use between 10--100 ng/reaction of cDNA
+
+1. Make a "Master Mix" of all reagents _without_ cDNA
+   - will need a different Master Mix for each Target PDAR (i.e., IL-8 is one Master Mix, CXCL5 is another)
+   
+| Component | Volume in mcL per Sample |
+|-----------|--------------------------|
+| 20 X Target Mix (i.e., IL-8, etc) | 1.0 |
+| 20 X Control Mix (18S or GAPDH) | 1.0 |
+| RNase-free Water | 6.0 |
+| 2 x TaqMan Universal Master Mix | 10.0 |
+
+2. Aliquot 18 mcL of Master Mix into each sample tube 
+   - MicroAmp 100 mcL PCR tubes with flat MicroAmp tops
+   - Place tubes in MicroAmp Optical 96-well plate
+3. Add 2 mcL of sample cDNA into respective PCR tubes
+4. Cover the plate with MicroAmp Optical Adhesive Cover, seal throughout
+5. Vortex gently
+6. Spin at 3500 RPM for 10 seconds to eliminate bubbles using the Sorval centrifuge
+7. Set-up Machine Program
+
