@@ -26,8 +26,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 5. Glass bottles 1000 mL x3 (autoclave before use)
 5. Inoculating loops, sterile plastic, single use
    - Fisherbrand, Cat#13-075-1
-5. 0.45 & 0.22 micron cellulose acetate membrane filters
-   - Osmonics?
+5. 250 mL EMD Millipore Stericup, 0.22 micron PVDF membrane filters
 6.  50-mL polystyrene conical tubes (Falcon tube)
 8.  Beckman Type 45 Ti rotor, serial\# 11U 4663 (fixed angle rotor, made in 2011)
 10.  Beckman Spinkote, Cat\# 306812
@@ -56,8 +55,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
 18. (Micro) BCA protein assay reagent kit
    - Pierce
    - mirco optimized for 0.5-20 mcg protein ml<sup>-1</sup>
-20. 0.45 & 0.22 micron cellulose acetate membrane filters
-   - Osmonics?
+20. 250 mL EMD Millipore Stericup, 0.22 micron PVDF membrane filters
 21. 60mL syringe
 22. 14-guage angiocath
 
@@ -77,7 +75,7 @@ Protocol: Isolation of Bacterial Membrane Vesicles
    - This is saved as Program ? on the Sorval Legend XTR centrifuge
    - *Supernatant* after this step contains the membrane vesicles.
    - Discard the pellet.
-9. Filter supernatant sequentially through 0.45 and then 0.22 micron cellulose acetate filters to remove any bacteria.
+9. Filter supernatant through a 250 mL EMD Millipore Stericup, 0.22 micron PVDF filter to remove any bacteria.
 10. Using a serological pipet, transfer filtered supernatant to 94mL ultracentrifuge tubes (for the 45Ti rotor). Balance tubes with cold 50 mM HEPES using a scale.
    - Tubes must be weighed within 1 g of one another
    - Fill tubes to 60% capacity, and fill the rest after putting the cap on using a syringe and an angiocath
