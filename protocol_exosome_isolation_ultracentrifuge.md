@@ -64,7 +64,7 @@ Exosome Isolation - Ultracentrifugation
 
 11. Ice
 
-12. 0.22 micron cellulose acetate membrane filter
+12. 150 mL EMD Millipore Stericup, 0.22 micron PVDF membrane filters
 
 
 
@@ -94,7 +94,7 @@ Exosome Isolation - Ultracentrifugation
     3.  Save the pellet in a 1.5mL microcentrifuge tube (label: BL----, cell pellet, date).
     4.  Store in the box at -80C labeled "First Run Pellet" BALF ultracentrifugation.
 
-6.  Transfer supernatant to a 60mL sterile syringe and filter through 0.22 micron cellulose acetate membrane filter.
+6.  Filter supernatant using 250 mL EMD Millipore Stericup, 0.22 micron PVDF membrane filters.
 
 7.  Transfer supernatant into new ultracentrifuge tubes (usually the SW 41Ti rotor can be used at this stage). Be sure to lightly re-grease threads of buckets.
     1.  Optional: Keep an aliquot of supernatant for purification analysis if desired.
