@@ -155,7 +155,7 @@ Exosome Isolation - Ultracentrifugation
 
 This is what the exosome pellet will look like:
 
-![image of exosome pellet](https://goo.gl/photos/BXGw3KpD6V1mD7fDA)
+![image of exosome pellet](https://photos.google.com/photo/AF1QipMvvNVVFAB45IcqUnPEf6FzCaGzAsA-qBaOvLtR
 
 [^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-08-01/2014-09-24/2015-08-04
 
