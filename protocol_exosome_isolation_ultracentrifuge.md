@@ -113,7 +113,7 @@ Exosome Isolation - Ultracentrifugation
 
 11. Again, use a serological pipet to remove the supernatant from the samples into a 50-mL Falcon tube. Use a pipetman to remove as much supernatant from the pellet as possible. 
     1.  Cut all the 13.5mL ultracentrifuge tubes in half
-    2.  Resuspend the pellets in each tube in PBS (total volume should be ~200µL)
+    2.  Resuspend the pellets in each tube in PBS (total volume should be ~100µL)
     3.  Save the pellet in a 1.5mL microcentrifuge tube (label: BL----, exosomes, date)
     4.  Store in the box at -80C labeled "Exosomes" BALF ultracentrifugation
     5.  Optional: If you want to conduct exosomal protein analysis, you can resuspend in lysis buffer (see BCA protocol).
@@ -155,7 +155,8 @@ Exosome Isolation - Ultracentrifugation
 
 This is what the exosome pellet will look like:
 
-![image of exosome pellet](https://photos.google.com/photo/AF1QipMvvNVVFAB45IcqUnPEf6FzCaGzAsA-qBaOvLtR
+![image of exosome pellet](https://lh3.googleusercontent.com/jBYKQxyqRDu9RUom5JFeO8GzgZsyKF5q3gndYn7D3N6c0Nf6JYcKN0fQ6EvBR-qStAfZMJ8XOjIMnynr1x25PDlWa9m4wWKDDSyLogfOAfEiM5xR2gZiFI3NKtIjdq2Tt5ZIgn3_EcslZIvgyk9oLPTycLwi3FFSh0Ovhp3LUytyppgNrEM2ekiyc_tsSwWPgDcuCcnX5UIN0EdUoS7A5ugbXr04mLvj5tpVL0uJxf0DfpqhdRsq4Xxq0XFMBITX5AREUJCZoW8vUreqHuj-q3IStVhLZhJsTvQC2l0Oq0BSfuZ7LNoUNbrNNzWKTKFEjv5g80F8G6mWVUvrKCFosn1N5VUmh2wV89Hr7RJURwRg8Im2MUcFhc0C9KzQb62WEFqazut0Okg6UHw4-w6pdGBWBpTVoLXbFW-GrvSQhZkuOHUZa_x_S5sdpaaXi7A1rEsch4xA55ckbHufInZnTOr-sTk-R2TGybKQVd7xr7yd_COPH47JDdzdT6MlCT2ofMHGlyTSneMqpAUgUfwPYVlJMSXZoiMGFGvFgI6h9Z5zAmgPGm7Y3R6TRRCLVkFHcTAUEw=w1129-h1008-no)
+
 
 [^1]:Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05; Modified by PI 2013-12-11; Modified by ALG 2014-08-01/2014-09-24/2015-08-04
 
