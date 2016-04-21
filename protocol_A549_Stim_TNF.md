@@ -125,6 +125,9 @@ Created by AG on 2016-03-01
 9. Resuspend in 20 mcL of DPEC (or RNAse-free water) by pipetting up and down and then heating for 10 minutes at 55-60C 
 9. Use Nanodrop (RNA settings) to calculate RNA concentrations
    - Use 1.5 mcL of sample; print report out for notebook
+   - OD260 nucleic acid; 260/280 like 1.8 or greater, 260/230 1.7 or greater
+   - Lower numbers indicate protein, Qiazol, sugars or guanidine contamination
+   - Absorbance does not correlate with RNA integrity
    - See separate protocol if needed
 10. Store samples at -80C
 
