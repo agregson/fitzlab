@@ -7,10 +7,11 @@ Created by AG on 2016-03-01
 
 ### Biohazard Safety
 
--    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or BacDown disinfectant. 
+-    Be sure to work in a biohazard safety cabinet or fume hood at appropriate times. Wipe the biosafety cabinet before and after use with 70% ethanol or BacDown disinfectant. 
 -    Use universal biosafety precautions, wear a barrier resistant lab coat, disposable gloves, and other appropriate PPE.
 -    When disposing BAL fluids, add 10% bleach solution to the discarded fluid to disinfect the cells and fluid for at least 10 minutes ("10 for 10"), then discard and rinse down the drain. 
 -    Dispose of trash in the designated "Biohazard" trash cans. Be sure to double bag the pipets before disposal. 
+-    Qiazol/Triazol must be disposed of in the appropriate hazardous waste containers in the fume hood.
 
 
 # Materials:
@@ -53,6 +54,7 @@ Created by AG on 2016-03-01
    - Applied Biosystems Cat# 4304134
    - 10X buffer, MgCl2 (25 mM), deoxyNTP mixture, random hexamers, RNase inhibitor, MultiScribe Reverse transcriptase
    - Location: Freezer #3, -20C
+   - Extras locaated Freezer #5, -20C, third shelf, box on right
 5. MicroAmp qPCR tubes with flat lids
    - Above benches and above qPCR machine
    - Come in strips of 8 and a plate of 96 wells
@@ -71,13 +73,13 @@ Created by AG on 2016-03-01
    - Using 6-well culture plates 
    
 1. Prepare TNF-alpha Stimulation Media
-   - Desired final TNF-alpha concentrations of 5--20 ng/mL per well. The TNF-alpha is at 5 ng/mcL stock concentration.
+   - Desired final TNF-alpha concentrations of 15 ng/mL per well. The TNF-alpha is at 5 ng/mcL stock concentration.
    - For _each_ 6-well _plate_ combine to make a Master Mix:
       1. 12 mcL (10 ng/mL final); 18 mcL (15 ng/mL final); 24 mcL (20 ng/mL final) TNF-alpha stock, and 
       2. 6 mL serum-free media (SFM)
 2. Add 2 mL of Stimulation Media to each _stimulation_ well
 3. Add 2 mL of serum-free media (SFM) to each _control_ well
-4. _Incubate_ at 37C/5% CO2 for _4 hours_
+4. _Incubate_ at 37C/5% CO2 for _4 hours_ or overnight depending upon set-up
 5. Remove supernatant for exosome isolation
 6. Add 1 mL of TRIzol/QIAzol to each well and incubate for 5 minutes at RT
 7. Gently wash about the TRIzol in each well
@@ -109,7 +111,7 @@ Created by AG on 2016-03-01
 3. Discard supernatant
 4. Wash RNA pellet *twice* with 1 mL of 75% EtOH / 25% DPEC (stock see above)
    - Briefly vortex or flick to tube to mix
-   - Centrifuge at 10,000xg for 5 minutes at 4C
+   - Centrifuge at 12,000xg for 5 minutes at 4C
    - Place hinge up in the centrifuge always so know where pellete is
    - Remove residuals of wash with pipette carefully, trying not to disturb the pellet (don't remove all the fluid), only about 1000 mcL
    - Samples can be stored for up to one year at -20C in this mixture
@@ -117,13 +119,13 @@ Created by AG on 2016-03-01
 7. Remove any excess wash buffer with smaller 200 mcL pipette tip 
    - If not enough EtOH evaporates, this will prevent the RNA from going into solution moving forward
    - Bring it to nearly dry with the pipette, careful to not suck up the pellet
-8. Air dry the samples by leaving the cap off on the bench for 5-10 minutes at RT
+8. Air dry the samples by leaving the cap off on the bench (or in biosafety cabinet) for 5-10 minutes at RT
    - Mostly what is left here is EtOH, it should all evaporate within 10 minutes
    - Can do in culture hood if like
 9. Resuspend in 20 mcL of DPEC (or RNAse-free water) by pipetting up and down and then heating for 10 minutes at 55-60C 
 9. Use Nanodrop (RNA settings) to calculate RNA concentrations
    - Use 1.5 mcL of sample; print report out for notebook
-   - See separate protocol
+   - See separate protocol if needed
 10. Store samples at -80C
 
 ## DNase Treatment of Total RNA
@@ -139,7 +141,7 @@ Created by AG on 2016-03-01
    - Use Slav's calculator spreadsheet to calculate volume of sample needed to yield 1 mcg of RNA for each sample
 6. Place calculated volume of DPEC / RNase-free water into the appropriate sample tube
    - Use Slav's calculator (as above) to calculate the volume of water for each tube
-7. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
+7. Mix tubes by centrifugation briefly in benchtop Eppendorf Minispin
    - Do NOT vortex samples, DNAse will be damaged
 8. Incubate tubes for 15 minutes at RT. 
    - Do not exceed 15 minutes as the RNA will begin to hydrolyze
@@ -221,7 +223,7 @@ Created by AG on 2016-03-01
    - Choose Advanced Set-up
    - Enter Experiment Name (something useful with the date of the original experiment)
    - Select StepOne Instrument (96 wells)
-   - Select Quantification: Comparative C_t
+   - Select Quantification: Comparative C<sub>t</sub>
    - Select Taqman Reagents
    - Select Standard, 2 hour run (you will be disappointed if you don't!)
    - Choose Plate Set Up
