@@ -79,6 +79,8 @@ Created by AG on 2016-03-01
       2. 6 mL serum-free media (SFM)
 2. Add 2 mL of Stimulation Media to each _stimulation_ well
 3. Add 2 mL of serum-free media (SFM) to each _control_ well
+4. If adding exosomes:
+   - If exosome pellet is difficult to resuspend, may let it sit at RT or 37C and then attempt to resuspend, perhaps gently vortex. Also, can add 0.2% BSA into the PBS if needed. 
 4. _Incubate_ at 37C/5% CO2 for _4 hours_ or overnight depending upon set-up
 5. Remove supernatant for exosome isolation
 6. Add 1 mL of TRIzol/QIAzol to each well and incubate for 5 minutes at RT
