@@ -1,14 +1,23 @@
-# Procotol for Culture and Care of Beas2B Bronchial Epithelial Cells
+Procotol for Culture and Care of Beas2B Bronchial Epithelial Cells
+===================================================================
 
-## standard warnings
+## Protocol Notes
+
+### Biohazard Safety
+
+-    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or BacDown disinfectant. 
+-    Use universal biosafety precautions, wear a barrier resistant lab coat, disposable gloves, and other appropriate PPE.
+-    When disposing BAL fluids, add 10% bleach solution to the discarded fluid to disinfect the cells and fluid for at least 10 minutes ("10 for 10"), then discard and rinse down the drain. 
+-    While spinning in centrifuge, cover the samples with the "Biohazard" caps to prevent the spread of infectious content in the case of a spill. 
+-    Dispose of trash in the designated "Biohazard" trash cans. Be sure to double bag the pipets before disposal. 
 
 # Materials
 1. Bovine type 1 collagen 
-   - 8919 Sigma, Collagen from calf skin
+   - Collagen from calf skin, Sigma, Cat # 8919
    - Bornstein and Traub Type I, (0.1% solution in 0.1 M acetic acid)
    - concentration is 1 mg/mL (i.e., 0.1% solution)
 2. Purified Human Fibronectin
-   - 855913 MP BIOMEDICALS
+   - MP Biomedicals, Cat # 855913 
    - concentration is 5.3 mg/mL
    - each vial contains 1 mg of fibronectin
 3. BSA
