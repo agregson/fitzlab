@@ -17,9 +17,9 @@ Created by SP on 2012-08-14
 3.	Add 10-µL of Trypan Blue to the 10-µL of cell suspension and pipe up and down several times to mix.
 4.	Withdrawl 10-µL of cell suspension/Trypan Blue and carefully pipet into hemocytometer until grid surface is covered.
 5.	Using the microscope, begin cell counting in the four large squares (each composed of nine smaller squares).
-6.	Average the cell count in the four large squares and use the following calculation to obtain the approximate cell concentration (cells/mL)
+6.	Average the cell count in the four large squares and use the following calculation to obtain the approximate number of cells:
 
-    a.	(average cell count in large corner squares)x(dilution factor)x(total cell suspension volume)x(10<sup>4</sup>) = x cells
+    a.	(average cell count in large corner squares)x(dilution factor)x(total cell suspension volume)x(10<sup>4</sup>) = total number of cells
     
     b.	Dilution factor in this case is 2
     
