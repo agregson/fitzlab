@@ -19,7 +19,7 @@ Created by SP on 2012-08-14
 5.	Using the microscope, begin cell counting in the four large squares (each composed of nine smaller squares).
 6.	Average the cell count in the four large squares and use the following calculation to obtain the approximate cell concentration (cells/mL)
 
-    a.	(average cell count in large squares)x(dilution factor)x(total cell suspension volume)x(10<sup>4</sup>) = x cells/mL
+    a.	(average cell count in large corner squares)x(dilution factor)x(total cell suspension volume)x(10<sup>4</sup>) = x cells
     
     b.	Dilution factor in this case is 2
     
