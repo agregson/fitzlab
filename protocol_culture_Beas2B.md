@@ -22,6 +22,9 @@ Procotol for Culture and Care of Beas2B Bronchial Epithelial Cells
    - each vial contains 1 mg of fibronectin
 3. BSA
    - Stock solution is produced so that 1 mcL is used per 10 mL of coating solution
+4. PVP
+   - Located on the dry chemical shelf. 
+   - Stock solution at 5% is kept on the lab bench
 
 ## Plate Coating Solution
 Requires that a special coating solution be applied to plates and flasks that will be used to grow Beas2B. 
@@ -35,3 +38,6 @@ Stock is kept in fridge #6.
       - Fibronectin: 19 mcL
       - Collagen: 300 mcL
       - BSA: 1 mcL
+   
+## Trypsin Release Media
+Requires the addition of 0.1% PVP. Will keep a stock of this separately from regular trypsin in Fridge #6. 
