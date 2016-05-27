@@ -83,8 +83,8 @@ Exosome Isolation - Ultracentrifugation
     3.  SW 41Ti 13.5mL tubes must be weighed to within 0.1 – 0.2 g of each other.
     4.  The 94mL 45Ti tubes can be weighted to within 1g of each other. The weight is usually around 134g.
 
-4.  Spin samples in ultracentrifuge, 16,500*g (14,500 RPM with 45 Ti) for 25 minutes at 4 degrees C. _Alternatively_, use SW 41Ti (11,500 RPM) for 44 minutes at 4 degrees C.
-    1.  This is saved as Program 4 on the Optima L-70k Ultracentrifuge
+4.  Spin samples in ultracentrifuge, 16,500*g (14,500 RPM with 45 Ti, Program 8) for 25 minutes at 4 degrees C. _Alternatively_, use SW 41Ti (11,500 RPM, Program 5) for 44 minutes at 4 degrees C.
+    1.  These is saved as programs in memory on the Optima L-70k Ultracentrifuge
     2.  This step is designed to remove most non-exosome microvesicles.
     3.  *Supernatant* after this step contains the exosomes.
 
@@ -101,15 +101,10 @@ Exosome Isolation - Ultracentrifugation
 
 8.  Balance tubes with cold PBS as in step 3.
 
-9.  Spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti) for 5 hours at 4 degrees C. _Alternatively_, use SW 41 Ti (31,000 RPM) for 6.5 hours at 4 degress C. 
+9.  Spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti, Program 9) for 5 hours at 4 degrees C. _Alternatively_, use SW 41 Ti (31,000 RPM, Program 6) for 6.5 hours at 4 degress C. 
     1.  Requires a *delayed* start in the Ultracentrifuge, timed to complete the spin in the morning when processing can be immediately continued. The holding temperature should be set at 4 degrees C.
     2.  The spun pellet cannot sit in the ultracentrifuge for long prior to continuing with processing.
     3.  *Pellet* after this step contains exosomes.
-
-10.	_Alternative:_ If not able to complete processing in the AM which is required by the overnight spin, then spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti) for 1.5 hours at 4 degrees C. _Alternatively_, use SW 41 Ti (31,000 RPM) for 2 hours at 4 degress C. 
-    1.  This is saved as Program 2 on the Optima L-70k Ultracentrifuge
-    2.  This _shorter spin is highly discouraged_. Overnight, longer spin is much preferred due to increased yields
-    3.  *Pellet* after this step contains exosomes
 
 11. Again, use a serological pipet to remove the supernatant from the samples into a 50-mL Falcon tube. Use a pipetman to remove as much supernatant from the pellet as possible. 
     1.  Cut all the 13.5mL ultracentrifuge tubes in half
