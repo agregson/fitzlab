@@ -21,6 +21,7 @@ Protocol: Characterization of Exosomal Protein - Flow Cytometry
 6. MES buffer, 0.025 M, pH 6, location: stored at room temperature rm. 231
     - MES hydrate, Sigma, Lot#118827, received 7/2012, opened 7/2012, location: reagent shelf rm. 231
 7. Glycine, 200 mM, location: stored at room temperature rm. 231
+    - 75.07g molecular weight
     - Glycine, Sigma, Batch# 125K0124, CAS 56-40-6, received 4/2006, location: reagent shelf rm. 231
 8. Wash buffer, 2% BSA in 1x PBS, location: refrigerator #1 rm. 231
     - Albumin, Bovine, Sigma, Lot# 29H06851, received 3/1999, location: refrigerator #7 rm. 226
