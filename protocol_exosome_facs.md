@@ -42,9 +42,9 @@ Protocol: Characterization of Exosomal Protein - Flow Cytometry
 7. When adding exosomes to antibody coated latex beads, add approximately 100,000 beads per 30 mcg of exosomal protein (as determined by BCA or Bradford).
 8. **Incubate over night** exosomes and beads in 300 mcL of PBS at 4 degrees C. If possible, incubate with gentle agitation.
 9. Add 300 mcL of 200 mM glycine to block unbound anti-CD63 antibody and **incubate for 30 minutes** in at 4 degrees C.
-10. Wash exosome bound beads twice in wash buffer by spinning at 600 x g (3000 rpm on Eppendorf microcentrifuge) for 10 minutes.
-11. Resuspend pellet in 50 mcL IgG antibody at 1 mg/mL concentration and incubate at 4 degrees C for 30 minutes.
-12. Wash exosome bound beads twice in wash buffer by spinning at 600 x g for 10 minutes
+10. Wash exosome bound beads **twice** in wash buffer by spinning at 600 x g (3000 rpm on Eppendorf microcentrifuge) for 10 minutes.
+11. Resuspend pellet in 50 mcL IgG antibody at 1 mg/mL concentration and **incubate at 4 degrees C for 30 minutes**.
+12. Wash exosome bound beads **twice** in wash buffer by spinning at 600 x g for 10 minutes
 13. Resuspend pellet in 90 mcL wash buffer and 10 mcL fluorescent tagged antibody (anti-CD9 PE in this case) and **incubate for 40 minutes** at 4 degrees C. Incubate under gentle incubation if possible.
 14. Wash exosome bound beads twice in wash buffer (repeat step 12).
 15. Resuspend pellet in 300 mcL wash buffer and store covered at 4 degrees C.
