@@ -19,6 +19,7 @@ Protocol: Characterization of Exosomal Protein - Flow Cytometry
     - Working solution for this assay is 1 mg/mL, stock diluted with 150 mM NaCl
 5. 1x PBS, prepared by N/A on N/A, location: stored at room temperature in 1-L glass reagent bottle rm. 231
 6. MES buffer, 0.025 M, pH 6, location: stored at room temperature rm. 231
+    - 195.24g molecular weight
     - MES hydrate, Sigma, Lot#118827, received 7/2012, opened 7/2012, location: reagent shelf rm. 231
 7. Glycine, 200 mM, location: stored at room temperature rm. 231
     - 75.07g molecular weight
