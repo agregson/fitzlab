@@ -105,10 +105,10 @@ Created by AG on 2016-03-01
    - Set pipette to 300 mcL will get about 2 times full
 2. Add 500 mcL of isopropyl alcohol (per 1 mL of TRIzol Reagent used initially) to precipitate RNA
 3. Mix by gently inverting 10 times
-4. Apparently can be frozen @ -20C at this stage
+4. Incubate the samples for 10 minutes at RT with the isopropyl alcohol
+5. Can be frozen @ -20C at this stage
 
 ### RNA Wash
-1. Incubate the samples for 10 minutes at RT with the isopropyl alcohol
 2. Centrifuge at 12,000xg for 10 minutest at 10C
 3. Discard supernatant
 4. Wash RNA pellet *twice* with 1 mL of 75% EtOH / 25% DPEC (stock see above)
@@ -165,15 +165,15 @@ Created by AG on 2016-03-01
 1. Prepare reverse transcriptase reaction mix. 
    - Best to make a *Master Mix* of N + 1 samples.
 
-| Component | Volume in mcL per Sample | Final Value per Sample |
-|-----------|--------------------------|----------------------|
-|25 mM MgCl2 | 22 | 5.5 mM|
-|deoxyNTPs Mixture | 20 | 500 mcM (per dNTP)|
-|DPEC (RNase-free water) | 18.5 mcL | 0.25-2.0 mcg |
-|10X Buffer | 10 | 1X|
-|Random Hexamers | 5 | 2.5 mcM |
-|MultiScribe Reverse Transcriptase (50 U/mcL)| 2.5 | 1.25 U/mcL |
-|RNase Inhibitor | 2 | 0.4 U/mcL |
+| Component | Volume in mcL per Sample | Final Value per Sample | Master Mix Volume in mcL for 24 Samples |
+|-----------|--------------------------|----------------------|---------------------------|
+|25 mM MgCl2 | 22 | 5.5 mM| 550 |
+|deoxyNTPs Mixture | 20 | 500 mcM (per dNTP)| 500 |
+|DPEC (RNase-free water) | 18.5 mcL | 0.25-2.0 mcg | 462.5 |
+|10X Buffer | 10 | 1X| 250 |
+|Random Hexamers | 5 | 2.5 mcM | 125 |
+|MultiScribe Reverse Transcriptase (50 U/mcL)| 2.5 | 1.25 U/mcL | 62.5 |
+|RNase Inhibitor | 2 | 0.4 U/mcL | 50 |
 
 2. Mix tubes by centrifugation briefly in benchtop Fisher Scientific Mini
 3. Each sample goes into a 0.2 mL tubes in PCR strips (8 tubes each, BioRad) with domed cap.
