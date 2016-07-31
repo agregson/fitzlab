@@ -4,12 +4,13 @@ Exosome Isolation - Ultracentrifugation
 # Protocol Notes [^1]
 
 -   The longer spin times should always be used unless there is an extreme exception. 
+-   Preference is to use the 45Ti rotor unless the entire BALF sample can fit into a single SW 41Ti tube (<11 mL). 
 
 -   This protocol is suitable for serum, BALF, and most other biological fluids. 
 
 -   If used in medium, FCS must be exosome free. FCS can be replaced with insulin-transferrin-sodium-selenite supplement or BSA (1% w/v) if desired (Thery2002). It preferred that the exosomes be ultracentrifuged out of the media. 
 
--   Threads of ultracentrifuge buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease. An extremely thin layer should be applied. You should not see grease when done with applicaiton. 
+-   Threads of ultracentrifuge swing buckets must be coated with Beckman Spinkote, and the gaskets must be coated with Beckman Vacuum grease. An extremely thin layer should be applied. You should not see grease when done with applicaiton. 
 
 -   Must refrigerate SW 41Ti rotor buckets at 4 degrees C prior to running.
 
@@ -68,6 +69,8 @@ Exosome Isolation - Ultracentrifugation
 
 
 
+
+
 # Methods
 
 1.  If sample has not yet been centrifuged to remove cells, then centrifuge sample in 50-mL conical tube at 300*g in the Sorval Legend XTR centrifuge for 10 minutes at 4 degrees C.
@@ -91,30 +94,38 @@ Exosome Isolation - Ultracentrifugation
 5.  Use serological pipet to remove supernatant from each tube, again being careful not to disturb the pellet.
     1.  Cut one of the tubes in half. Wash the other tubes in 70% ethanol and store in box labeled "Used tubes" for reuse.
     2.  Resuspend the pellet in the pre-cut tube with 40µL of 50mM HEPES.
-    3.  Save the pellet in a 1.5mL microcentrifuge tube (label: BL----, cell pellet, date).
+    3.  Save the pellet in a 1.5mL microcentrifuge tube (label: BL----, "1st Spin Pellet", date [year-month-day]).
     4.  Store in the box at -80C labeled "First Run Pellet" BALF ultracentrifugation.
 
 6.  Filter supernatant using 250 mL EMD Millipore Stericup, 0.22 micron PVDF membrane filters.
 
-7.  Transfer supernatant into new ultracentrifuge tubes (usually the SW 41Ti rotor can be used at this stage). Be sure to lightly re-grease threads of buckets.
+7.  Transfer supernatant into new ultracentrifuge tubes. Be sure to lightly re-grease threads of buckets if using SW 41Ti.
     1.  Optional: Keep an aliquot of supernatant for purification analysis if desired.
 
 8.  Balance tubes with cold PBS as in step 3.
 
 9.  Spin in ultracentrifuge 118,000*g (39,000 RPM with 45 Ti, Program 9) for 5 hours at 4 degrees C. _Alternatively_, use SW 41 Ti (31,000 RPM, Program 6) for 6.5 hours at 4 degress C. 
-    1.  Requires a *delayed* start in the Ultracentrifuge, timed to complete the spin in the morning when processing can be immediately continued. The holding temperature should be set at 4 degrees C.
+    1.  Requires a *delayed* start in the Ultracentrifuge (Program 0 in conjunction with Program 9 or 6), timed to complete the spin in the morning when processing can be immediately continued. The holding temperature should be set at 4 degrees C.
     2.  The spun pellet cannot sit in the ultracentrifuge for long prior to continuing with processing.
     3.  *Pellet* after this step contains exosomes.
-
-11. Again, use a serological pipet to remove the supernatant from the samples into a 50-mL Falcon tube. Use a pipetman to remove as much supernatant from the pellet as possible. 
-    1.  Cut all the 13.5mL ultracentrifuge tubes in half
-    2.  Resuspend the pellets in each tube in PBS (total volume should be ~100µL)
-    3.  Save the pellet in a 1.5mL microcentrifuge tube (label: BL----, exosomes, date)
-    4.  Store in the box at -80C labeled "Exosomes" BALF ultracentrifugation
-    5.  Optional: If you want to conduct exosomal protein analysis, you can resuspend in lysis buffer (see BCA protocol).
-
-12. Save two 1.8mL aliquots of the supernatant in 2-mL cryovials (label: BL----, supernatant, date)
+    
+12. Save two 1.8mL aliquots of the supernatant in 2 mL cryovials (label: BL----, "2nd Run Supernatant", date [year-month-day])
     1.  Store in the box at -80C labeled "Second Run Supernatant" BALF ultracentrifugation
+
+13. Remove remaining supernatant with wall suction using a sterile pipete tip 
+    1.  Resuspend the pellets in each tube in PBS (total volume should be ~100--200µL). When suction to dry, will need 200 mcL to resuspend fully without foaming completely.
+    3.  Save the pellet in a 1.5mL microcentrifuge tube (label: BL----, "exosomes BALF", date [year-month-day])
+    4.  Store in the box at -80C labeled "Exosomes BALF ultracentrifugation"
+    5.  Optional: If you want to conduct exosomal protein analysis, you can resuspend in lysis buffer (see BCA protocol).
+    
+14. Clean tops of 45Ti rotor tubes with EtOH and dry completely. 
+    - Place them into the 'clean' box in the drawer once dry
+    - Screw the screws into the tops part way so that they are not lost
+    - Leave the tops in separate pieces to ensure they are not stored wet
+    - If the nylon insert has migrated too far down, either fix immediately or place into 'maintanence' box to fix later
+    - Do not force the screws into the tops. If they are difficult to screw into place, they may become or are already stripped and they will need to be replaced prior to using again. 
+
+
 
 <!-- 8.  Use a serological pipet to remove the supernatant from the -->
 <!--     samples. Use a pipetman to remove as much supernatant from the -->
