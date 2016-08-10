@@ -33,6 +33,8 @@ Exosome Isolation - Ultracentrifugation
 
 2.  Phosphate Buffered Saline (PBS) 1x, prepared on N/A by N/A, location: stored at room temperature in 1-L glass reagent bottle
 
+3.  Filtered Phosphate Buffered Saline (PBS) 1x, 0.22 micron filter, prepared on N/A by N/A, location: stored at 4C temperature in 500 mL glass reagent bottle
+
 3.  Beckman 45 Ti rotor, serial\# 11U 4663 (fixed angle rotor, made in 2011) or,
 
 3.  Beckman SW 41 Ti rotor, serial\# 97U 10110 (swing-bucket rotor) 
@@ -113,7 +115,7 @@ Exosome Isolation - Ultracentrifugation
     1.  Store in the box at -80C labeled "Second Run Supernatant" BALF ultracentrifugation
 
 13. Remove remaining supernatant with wall suction using a sterile pipete tip 
-    1.  Resuspend the pellets in each tube in PBS (total volume should be ~100--200µL). When suction to dry, will need 200 mcL to resuspend fully without foaming completely.
+    1.  Resuspend the exosome pellets in each tube in *filtered* PBS (total volume should be ~100--200µL). When suction to dry, will need 200 mcL to resuspend fully without foaming completely.
     3.  Save the pellet in a 1.5mL microcentrifuge tube (label: BL----, "exosomes BALF", date [year-month-day])
     4.  Store in the box at -80C labeled "Exosomes BALF ultracentrifugation"
     5.  Optional: If you want to conduct exosomal protein analysis, you can resuspend in lysis buffer (see BCA protocol).
