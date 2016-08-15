@@ -1,0 +1,87 @@
+General Protocol for Western Blotting
+
+Materials
+•	10X Cell Lysis Buffer (Stored in 20˚C – Refrigerator #1)
+•	30X Reducing Agent (Stored in 20˚C – Refrigerator #1)
+•	Pre-stained Protein Marker, Broad Range (11-190 kDa) (Stored in 20˚C – Refrigerator #1)
+•	Anti-rabbit IgG, HRP-linked Antibody (Stored in 20˚C – Refrigerator #1)
+•	Anti-mouse IgG, HRP-linked Antibody (Stored in 20˚C – Refrigerator #1)
+•	Bovine Serum Albumin (BSA) (Stored in 4˚C – Refrigerator #1)
+•	200X PMSF
+•	Tris-Glycine SDS Running Buffer (10X)
+•	Nitrocellulose Sandwiches
+•	Tris-Glycine Transfer Buffer (10X)
+•	Tris Buffered Saline with Tween 20 (TBST-10X)
+•	Nonfat Dry Milk
+•	SignalFire ECL Reagent
+
+Reagent Preparation
+1. Prepare fresh 1X SDS Sample Buffer by mixing:
+    a.	1 part 3X SDS Loading Buffer 30X
+    b.	1/10 part 30X DTT
+    c.	3 parts dH20
+2. Prepare 200X PMSF by reconstituting:
+    a.	34.84 mg PMSF in 1ml isopropyl alcohol to make a 200 mM solution
+3. Prepare 10 ml of 1X Cell Lysis Buffer by mixing:
+    a.	1 ml 10X Cell Lysis Buffer
+    b.	9 ml dH20
+    c.	Chill on ice and add 50 µl 200X PMSF prior to use
+4. Prepare 1 L 1X Tris-Glycine SDS Running Buffer by mixing:
+    a.	100 ml 10X running buffer
+    b.	900 ml dH20
+5. Prepare 1L 1X Tris-Glycine Transfer Buffer by mixing:
+    a.	100 ml 10X Transfer Buffer
+    b.	200 ml methanol
+    c.	700 ml dH20
+6. Prepare 150ml Blocking Buffer by mixing:
+    a.	7.5g nonfat dry milk
+    b.	150 ml 1X TBST
+7. Prepare 20 ml Primary Antibody Dilution Buffer using:
+    a.	20 ml 1X TBST 
+    b.	1.0 g BSA or nonfat dry milk, whichever is indicated on the primary antibody sheet
+
+Protein Blotting
+1. Treat cells by adding fresh media containing regulator for desired time.
+2. Aspirate media from cultures; wash cells with 1X PBS; aspirate.
+3. Lyse cells by adding 1X SDS sample buffer (100 µl per well of 6-well plate or 500 µl for a 10 cm diameter plate). Immediately scrape the cells off the plate and transfer the extract to a microcentrifuge tube. Keep on ice.
+4. Sonicate for 10–15 sec to complete cell lysis and shear DNA (to reduce sample viscosity).
+5. Heat a 20 µl sample to 95–100°C for 5 min; cool on ice.
+6. Microcentrifuge for 5 min.
+7. Load 20 µl onto SDS-PAGE gel (10 cm x 10 cm). 
+    a.	NOTE: Loading of prestained molecular weight markers (10 µl/lane) to verify electrotransfer and biotinylated protein ladder (10 µl/lane) to determine molecular weights are recommended.
+8. Electrotransfer to nitrocellulose membrane.
+
+Membrane Blocking and Antibody Incubations
+NOTE: Volumes are for 10 cm x 10 cm (100 cm2) of membrane; for different sized membranes, adjust volumes accordingly.
+
+1. (Optional) After transfer, wash nitrocellulose membrane with 25 ml TBS for 5 min at room temperature.
+2. Incubate membrane in 25 ml of blocking buffer for 1 hr at room temperature.
+3. Wash three times for 5 min each with 15 ml of TBST.
+
+Primary Antibody Incubation
+Proceed to one of the following specific set of steps depending on the primary antibody used.
+
+Unconjugated Primary Antibodies
+1. Incubate membrane and primary antibody (at the appropriate dilution and diluent as recommended in the product datasheet) in 10 ml primary antibody dilution buffer with gentle agitation overnight at 4°C.
+2. Wash three times for 5 min each with 15 ml of TBST.
+3. Incubate membrane with the species appropriate HRP-conjugated secondary antibody (at1:2000) and anti-biotin, HRP-linked Antibody (1:1000–1:3000) to detect biotinylated protein markers in 10 ml of blocking buffer with gentle agitation for 1 hr at room temperature.
+4. Wash three times for 5 min each with 15 ml of TBST.
+5. Proceed with detection.
+
+HRP Conjugated Primary Antibodies
+1. Incubate membrane and primary antibody (at the appropriate dilution as recommended in the product datasheet) in 10 ml primary antibody dilution buffer with gentle agitation overnight at 4°C.
+2. Wash three times for 5 min each with 15 ml of TBST.
+3. Incubate with Anti-biotin, HRP-linked Antibody (1:1000–1:3000), to detect biotinylated protein markers, in 10 ml of blocking buffer with gentle agitation for 1 hr at room temperature.
+4. Wash three times for 5 min each with 15 ml of TBST.
+5. Proceed with detection.
+
+Biotinylated Primary Antibodies
+1. Incubate membrane and primary antibody (at the appropriate dilution as recommended in the product datasheet) in 10 ml primary antibody dilution buffer with gentle agitation overnight at 4°C.
+2. Wash three times for 5 min each with 15 ml of TBST.
+3. Incubate membrane with Streptavidin-HRP in 10 ml of blocking buffer with gentle agitation for 1 hr at room temperature.
+4. Wash three times for 5 min each with 15 ml of TBST.
+5. Proceed with detection.
+
+Detection of Proteins
+1. Incubate membrane with 10 ml LumiGLO (0.5 ml 20X LumiGLO, 0.5 ml 20X Peroxide, and 9.0 ml purified water) or 10 ml SignalFire (5 ml Reagent A, 5 ml Reagent B) with gentle agitation for 1 min at room temperature.
+2. Drain membrane of excess developing solution (do not let dry), wrap in plastic wrap and expose to x-ray film. An initial 10 sec exposure should indicate the proper exposure time. NOTE: Due to the kinetics of the detection reaction, signal is most intense immediately following incubation and declines over the following 2 hr.
