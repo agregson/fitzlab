@@ -8,8 +8,11 @@ Protocol: Gel Electrophoresis
 # Materials: 
 
 1. 100% Reagent Grade Methanol
+   - Yellow flame proof cabinet
 2. Coomassie Dye Powder
+   - benchtop shelves
 3. 100% Glacial Acetic Acid 
+   - Corrosive acid cabinet
 4. Gel Cassette and Gel Tank
 5. DC Power Supply
 6. Fisher Scientific Dry Bath Incubator
