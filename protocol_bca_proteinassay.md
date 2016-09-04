@@ -1,11 +1,13 @@
-Protocol: BCA Total Protein Assay 
+Protocol: BCA (bicinchoninic acid) Total Protein Assay 
 ==================================
 
 # Notes:
 -	Protocol was modified from: Thermo Scientific Protocol and Nanodrop 1000 BCA protocol 
 -	See additional Thermo Scientific BCA kit information appended to protocol for buffer compatibility, nanodrop 1000 capability, and kit sensitivity. 
 -	Manufacturers manual is located on the Public folder. Also can download from (https://tools.thermofisher.com/content/sfs/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
--	See also a protein compatibility document on the Public folder (Protein-assay-compatibility.pdf)
+-	See also the compatibility chart (Table 2 in BCA manual) and the document on the Public folder (Protein-assay-compatibility.pdf)
+   -	Note that our HEPES is at 50mM for the bacterial MV, within the limits of the BCA Assay
+- This is a colorimetric assay based on the reduction of cupric to cuprous by protein in an alkaline medium (the biuret reaction). This results in a purple-colored byproduct that is the chelation of two molecules of BCA to one cuprous ion. This complex absorbs at 562nm with good working range of 20-2000 mcg/mL. 
 
 # Materials:
 1.	1x PBS, prepared by N/A on N/A, 
