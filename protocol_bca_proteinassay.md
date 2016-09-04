@@ -4,6 +4,7 @@ Protocol: BCA Total Protein Assay
 # Notes:
 -	Protocol was modified from: Thermo Scientific Protocol and Nanodrop 1000 BCA protocol 
 -	See additional Thermo Scientific BCA kit information appended to protocol for buffer compatibility, nanodrop 1000 capability, and kit sensitivity. 
+-	Manufacturers manual is located on the Public folder. Also can download from (https://tools.thermofisher.com/content/sfs/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
 
 # Materials:
 1.	1x PBS, prepared by N/A on N/A, location: stored at room temperature in 1-L glass reagent bottles rm. 231
