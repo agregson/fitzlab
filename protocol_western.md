@@ -9,7 +9,7 @@ Protocol for Western Blot Using CST Kit
 1. Aspirate culture media from cells in culture
 2. Lyse cells by one of three methods:
 
-   a. 1X Cell Lysis Buffer
+   a. 1X Cell Lysis Buffer (if measuring protein)
       - 80 mcL/well of 6-well plate or 400 mcL for 10 cm plate
       - Incubate on ice x 5 minutes
       - Scrape cells off the plate into a microcentrifuge tube and keep on ice
@@ -17,15 +17,18 @@ Protocol for Western Blot Using CST Kit
       - Centrifuge for 10 minutes at 14,000 x g in cold centrifuge
       - Transfer supernatant to new microcentrifuge tube, discard pellet
       - Determine protein concentration using BCA Assay (see separate protocol)
+      - Add 3X SDS Sample Buffer to a final concentration of 1X
       
-   b. 1X SDS sample buffer 
+   b. 1X SDS Sample Buffer (cannot measure protein with this method)
       - 100 mcL per well of 6-well plate or 500 mcL for 10 cm plate
       - Immediately scrape cells off the plate into a microcentrifuge tube and keep on ice
       - Sonicate for 10--15 seconds and then keep on ice
+      
+   c. Both methods then continue to here
       - Heat a 20 mcL sample to 95--100 C for minutes and then cool on ice
       - Microcentrifuge for 5 minutes
       
-3. Prepare electrophoresis gell and aparatus using 1X running buffer
+3. Prepare electrophoresis gel and aparatus using 1X running buffer
 
 4. Load Gel
    - Load 15 mcL of sample onto the SDS-PAGE gel 
